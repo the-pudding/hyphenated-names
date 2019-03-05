@@ -61,7 +61,9 @@
   },
   "scripts": {
     "wnba-get-names-html": "node process/wnba/s1_get-names-html.js",
-    "wnba-get-names-list": "node process/wnba/s2_get-names-list.js"
+    "wnba-get-names-list": "node process/wnba/s2_get-names-list.js",
+    "nba-get-names-html": "node process/nba/s1_get-names-html.js",
+    "nba-get-names-list": "node process/nba/s2_get-names-list.js"
   },
   "repository": {
     "type": "git",
