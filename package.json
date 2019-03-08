@@ -65,7 +65,9 @@
     "nba-get-names-html": "node process/nba/s1_get-names-html.js",
     "nba-get-names-list": "node process/nba/s2_get-names-list.js",
     "nfl-get-names-html": "node process/nfl/s1_get-names-html.js",
-    "nfl-get-names-list": "node process/nfl/s2_get-names-list.js"
+    "nfl-get-names-list": "node process/nfl/s2_get-names-list.js",
+    "mlb-get-names-html": "node process/mlb/s1_get-names-html.js",
+    "mlb-get-names-list": "node process/mlb/s2_get-names-list.js"
   },
   "repository": {
     "type": "git",
