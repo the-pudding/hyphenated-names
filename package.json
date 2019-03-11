@@ -71,7 +71,10 @@
     "nhl-get-names-html": "node process/nhl/s1_get-names-html.js",
     "nhl-get-names-list": "node process/nhl/s2_get-names-list.js",
     "mls-get-names-list": "node process/mls/s1_get-names-list.js",
-    "mls-format-years": "node process/mls/s2_format-years.js"
+    "mls-format-years": "node process/mls/s2_format-years.js",
+    "nwls-get-names-html": "node process/nwls/s1_get-names-html.js",
+    "nwls-get-names-list": "node process/nwls/s2_get-names-list.js",
+    "nwls-format-years": "node process/nwls/s3_format-years.js"
   },
   "repository": {
     "type": "git",
