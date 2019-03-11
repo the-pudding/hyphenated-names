@@ -24,7 +24,8 @@ function getNames(letter) {
 			dates = dates.slice(0, 9)
 			let startDate = dates.split('-')[0];
 			let endDate = dates.split('-')[1];
-			if (name) names.push({name, startDate, endDate})
+			const league = 'nhl'
+			if (name) names.push({name, startDate, endDate, league})
 		});
 		//console.log(names)
 		return names;

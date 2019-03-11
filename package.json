@@ -69,7 +69,9 @@
     "mlb-get-names-html": "node process/mlb/s1_get-names-html.js",
     "mlb-get-names-list": "node process/mlb/s2_get-names-list.js",
     "nhl-get-names-html": "node process/nhl/s1_get-names-html.js",
-    "nhl-get-names-list": "node process/nhl/s2_get-names-list.js"
+    "nhl-get-names-list": "node process/nhl/s2_get-names-list.js",
+    "mls-get-names-list": "node process/mls/s1_get-names-list.js",
+    "mls-format-years": "node process/mls/s2_format-years.js"
   },
   "repository": {
     "type": "git",

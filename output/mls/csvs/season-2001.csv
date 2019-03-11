@@ -1,0 +1,290 @@
+Rk,Player,Nation,Pos,Squad,Age,Apps,Starts,Subs,Min,Mn/Ap,Gls,Ast,PK,PKatt,Fls,CrdY,CrdR,SoT,Gls,G+A,G-PK,G+A-PK,SoT,Fls,Crd
+1,Zach Thornton\Zach-Thornton,us USA,GK,Chicago Fire,27,27,27,0,2496,92,0,0,0,0,0,2,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.07
+2,Kerry Zavagnin\Kerry-Zavagnin,us USA,MF,Kansas City Wizards,26,27,27,0,2472,92,1,2,0,0,41,5,0,6,0.04,0.11,0.04,0.11,0.22,1.49,0.18
+3,Jesse Marsch\Jesse-Marsch,us USA,MF,Chicago Fire,27,27,27,0,2429,90,3,3,0,0,44,6,0,8,0.11,0.22,0.11,0.22,0.30,1.63,0.22
+4,Matt Jordan\Matt-Jordan,us USA,GK,Dallas Burn,25,26,26,0,2388,92,0,0,0,0,0,1,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.04
+5,Matt McKeon\Matt-McKeon,us USA,MF,Kansas City Wizards,26,26,26,0,2372,91,5,2,2,2,76,6,0,22,0.19,0.27,0.11,0.19,0.83,2.88,0.23
+6,Steve Jolley\Steve-Jolley,us USA,DF,MetroStars,25,26,26,0,2370,91,0,3,0,0,33,6,0,3,0.00,0.11,0.00,0.11,0.11,1.25,0.23
+7,Tim Howard\Tim-Howard,us USA,GK,MetroStars,21,26,26,0,2370,91,0,0,0,0,0,1,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.04
+8,Chad Deering\Chad-Deering,us USA,MF,Dallas Burn,30,25,25,0,2317,93,2,2,0,0,47,5,0,12,0.08,0.16,0.08,0.16,0.47,1.83,0.19
+9,Dema Kovalenko\Dema-Kovalenko,ua UKR,MF,Chicago Fire,23,25,25,0,2311,92,8,4,1,1,35,8,0,21,0.31,0.47,0.27,0.43,0.82,1.36,0.31
+10,Manny Lagos\Manny-Lagos,us USA,MF,San Jose Earthquakes,29,26,26,0,2310,89,8,8,0,0,38,3,1,39,0.31,0.62,0.31,0.62,1.52,1.48,0.16
+11,Tom Presthus\Tom-Presthus,us USA,GK,Columbus Crew,25,25,25,0,2309,92,0,0,0,0,0,1,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.04
+12,Joe Cannon\Joe-Cannon,us USA,GK,San Jose Earthquakes,26,25,25,0,2306,92,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+13,Nick Rimando\Nick-Rimando,us USA,GK,Miami Fusion,21,25,25,0,2300,92,0,0,0,0,0,1,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.04
+14,Jim Rooney\Jim-Rooney,us USA,MFFW,Miami Fusion,32,25,25,0,2294,92,6,4,0,0,45,6,0,23,0.24,0.39,0.24,0.39,0.90,1.77,0.24
+15,Pablo Mastroeni\Pablo-Mastroeni,us USA,MF,Miami Fusion,24,25,25,0,2290,92,2,2,0,0,30,6,0,2,0.08,0.16,0.08,0.16,0.08,1.18,0.24
+16,Mike Clark\Mike-Clark,us USA,DF,Columbus Crew,28,25,25,0,2280,91,0,0,0,0,28,7,0,1,0.00,0.00,0.00,0.00,0.04,1.11,0.28
+17,Troy Dayak\Troy-Dayak,us USA,DFFW,San Jose Earthquakes,30,25,25,0,2236,89,2,0,0,0,25,4,0,5,0.08,0.08,0.08,0.08,0.20,1.01,0.16
+18,Jorge Rodríguez\Jorge-Rodriguez,sv SLV,DF,Dallas Burn,29,24,24,0,2232,93,6,1,3,3,35,5,0,17,0.24,0.28,0.12,0.16,0.69,1.41,0.20
+19,Mauricio Cienfuegos\Mauricio-Cienfuegos,sv SLV,MF,LA Galaxy,32,25,25,0,2229,89,2,6,0,0,27,3,0,14,0.08,0.32,0.08,0.32,0.57,1.09,0.12
+20,Mark Chung\Mark-Chung,us USA,MF,MetroStars,30,26,24,2,2226,86,3,4,0,1,36,1,0,25,0.12,0.28,0.12,0.28,1.01,1.46,0.04
+21,Steve Ralston\Steve-Ralston,us USA,MF,Tampa Bay Mutiny,26,25,25,0,2221,89,7,2,0,0,25,1,1,11,0.28,0.36,0.28,0.36,0.45,1.01,0.08
+22,Ian Russell\Ian-Russell,us USA,MF,San Jose Earthquakes,25,26,26,0,2216,85,3,3,0,0,42,6,0,12,0.12,0.24,0.12,0.24,0.49,1.71,0.24
+23,Ariel Graziani\Ariel-Graziani,ec ECU,FW,Dallas Burn,29,25,24,1,2208,88,11,7,0,0,39,6,0,40,0.45,0.73,0.45,0.73,1.63,1.59,0.24
+24,Peter Vagenas\Peter-Vagenas,us USA,MF,LA Galaxy,22,26,25,1,2197,85,3,2,0,0,52,2,0,7,0.12,0.20,0.12,0.20,0.29,2.13,0.08
+25,Mike Petke\Mike-Petke,us USA,DF,MetroStars,25,25,25,0,2194,88,0,1,0,0,48,5,1,0,0.00,0.04,0.00,0.04,0.00,1.97,0.25
+26,Chris Martinez\Chris-Martinez,us USA,DF,Colorado Rapids,30,26,26,0,2189,84,0,0,0,0,43,3,0,7,0.00,0.00,0.00,0.00,0.29,1.77,0.12
+27,Brian Maisonneuve\Brian-Maisonneuve,us USA,MF,Columbus Crew,27,25,25,0,2184,87,8,1,0,0,57,1,0,14,0.33,0.37,0.33,0.37,0.58,2.35,0.04
+28,Chris Henderson\Chris-Henderson,us USA,MF,Miami Fusion,30,25,25,0,2184,87,3,6,0,0,42,3,0,17,0.12,0.37,0.12,0.37,0.70,1.73,0.12
+29,Jason Kreis\Jason-Kreis,us USA,MFFW,Dallas Burn,28,25,25,0,2175,87,7,3,0,0,31,2,0,32,0.29,0.41,0.29,0.41,1.32,1.28,0.08
+30,Mike Duhaney\Mike-Duhaney,us USA,DF,Columbus Crew,26,25,25,0,2164,87,1,1,0,0,35,2,0,5,0.04,0.08,0.04,0.08,0.21,1.46,0.08
+31,Danny Califf\Danny-Califf,us USA,DF,LA Galaxy,20,24,23,1,2161,90,3,0,0,0,58,9,0,7,0.12,0.12,0.12,0.12,0.29,2.42,0.37
+32,Tenywa Bonseu\Tenywa-Bonseu,ug UGA,DF,Columbus Crew,24,24,24,0,2160,90,0,1,0,0,21,4,2,1,0.00,0.04,0.00,0.04,0.04,0.87,0.25
+33,DaMarcus Beasley\DaMarcus-Beasley,us USA,MFDFFW,Chicago Fire,18,24,24,0,2156,90,2,1,0,0,38,4,0,18,0.08,0.13,0.08,0.13,0.75,1.59,0.17
+34,Mauricio Wright\Mauricio-Wright,cr CRC,DF,New England Revolution,30,24,24,0,2156,90,2,0,0,0,30,4,1,6,0.08,0.08,0.08,0.08,0.25,1.25,0.21
+35,Nick Garcia\Nick-Garcia,us USA,DF,Kansas City Wizards,21,24,24,0,2142,89,0,0,0,0,23,5,2,0,0.00,0.00,0.00,0.00,0.00,0.97,0.29
+36,Preki\Preki,us USA,FWMF,Miami Fusion,37,24,24,0,2139,89,8,10,2,3,19,3,0,40,0.34,0.76,0.25,0.67,1.68,0.80,0.13
+37,Zak Ibsen\Zak-Ibsen,us USA,DF,San Jose Earthquakes,28,24,24,0,2137,89,2,1,0,0,33,3,1,6,0.08,0.13,0.08,0.13,0.25,1.39,0.17
+38,Ezra Hendrickson\Ezra-Hendrickson,vc VIN,DF,LA Galaxy,29,23,23,0,2132,93,5,1,0,0,45,5,0,13,0.21,0.25,0.21,0.25,0.55,1.90,0.21
+39,Wade Barrett\Wade-Barrett,us USA,DF,San Jose Earthquakes,24,24,23,1,2125,89,1,3,0,0,22,1,0,2,0.04,0.17,0.04,0.17,0.08,0.93,0.04
+40,Diego Gutiérrez\Diego-Gutierrez,us USA,MFDF,Chicago Fire,28,24,24,0,2123,89,1,2,0,1,52,4,1,10,0.04,0.13,0.04,0.13,0.42,2.20,0.21
+41,Marcelo Balboa\Marcelo-Balboa,us USA,DF,Colorado Rapids,33,24,22,2,2119,88,5,3,0,0,29,0,0,22,0.21,0.34,0.21,0.34,0.93,1.23,0.00
+42,Ian Bishop\Ian-Bishop,eng ENG,MF,Miami Fusion,35,23,23,0,2115,92,0,5,0,0,20,3,1,6,0.00,0.21,0.00,0.21,0.26,0.85,0.17
+43,Óscar Pareja\Oscar-Pareja,co COL,MF,Dallas Burn,32,24,24,0,2113,88,2,5,0,0,59,6,0,16,0.09,0.30,0.09,0.30,0.68,2.51,0.26
+44,Richard Farrer\Richard-Farrer,za RSA,FWDF,Dallas Burn,29,25,24,1,2108,84,2,2,0,0,28,6,0,3,0.09,0.17,0.09,0.17,0.13,1.20,0.26
+45,John Wilmar Pérez\John-Wilmar-Perez,co COL,MFDF,Columbus Crew,30,25,23,2,2105,84,8,11,0,0,19,3,0,20,0.34,0.81,0.34,0.81,0.86,0.81,0.13
+46,John Spencer\John-Spencer,sco SCO,FW,Colorado Rapids,30,23,22,1,2083,91,14,6,2,2,43,5,0,36,0.60,0.86,0.52,0.78,1.56,1.86,0.22
+47,Alex Pineda Chacón\Alex-Pineda-Chacon,hn HON,MFFW,Miami Fusion,31,25,23,2,2055,82,19,4,0,0,14,0,0,36,0.83,1.01,0.83,1.01,1.58,0.61,0.00
+48,Chris Klein\Chris-Klein,us USA,DFMF,Kansas City Wizards,25,24,23,1,2039,85,3,4,0,0,24,2,0,11,0.13,0.31,0.13,0.31,0.49,1.06,0.09
+49,Chris Brown\Chris-Brown,us USA,FWMF,Kansas City Wizards,23,27,23,4,2034,75,5,1,0,0,19,1,0,18,0.22,0.27,0.22,0.27,0.80,0.84,0.04
+50,Greg Vanney\Greg-Vanney,us USA,DF,LA Galaxy,26,22,22,0,2032,92,6,2,4,6,32,8,0,14,0.27,0.35,0.09,0.18,0.62,1.42,0.35
+51,Brandon Prideaux\Brandon-Prideaux,us USA,DF,Kansas City Wizards,24,23,22,1,2028,88,0,0,0,0,31,5,0,0,0.00,0.00,0.00,0.00,0.00,1.38,0.22
+52,Joe Franchino\Joe-Franchino,us USA,DFMF,New England Revolution,24,23,23,0,2027,88,0,1,0,0,41,10,1,2,0.00,0.04,0.00,0.04,0.09,1.82,0.49
+53,Marco Etcheverry\Marco-Etcheverry,bo BOL,MF,D.C. United,30,23,23,0,2024,88,0,7,0,0,21,7,1,11,0.00,0.31,0.00,0.31,0.49,0.93,0.36
+54,Rusty Pierce\Rusty-Pierce,us USA,DF,New England Revolution,21,23,22,1,1988,86,0,0,0,0,48,6,0,2,0.00,0.00,0.00,0.00,0.09,2.17,0.27
+55,Diego Serna\Diego-Serna,co COL,FW,Miami Fusion,27,22,22,0,1978,90,15,11,0,0,73,8,2,37,0.68,1.18,0.68,1.18,1.68,3.32,0.46
+56,Ronald Cerritos\Ronald-Cerritos,sv SLV,FW,San Jose Earthquakes,26,25,23,2,1954,78,11,2,1,2,27,0,0,30,0.51,0.60,0.46,0.55,1.38,1.24,0.00
+57,Josh Keller\Josh-Keller,us USA,MF,Tampa Bay Mutiny,25,22,22,0,1952,89,3,0,0,0,39,8,0,8,0.14,0.14,0.14,0.14,0.37,1.80,0.37
+58,Orlando Perez\Orlando-Perez,us USA,DF,MetroStars,23,24,21,3,1948,81,0,0,0,0,37,6,0,0,0.00,0.00,0.00,0.00,0.00,1.71,0.28
+59,Chris Armas\Chris-Armas,pr PURus USA,MF,Chicago Fire,28,21,21,0,1940,92,0,1,0,0,43,3,0,10,0.00,0.05,0.00,0.05,0.46,1.99,0.14
+60,Mike Lapper\Mike-Lapper,us USA,DF,Columbus Crew,30,24,21,3,1929,80,1,0,0,0,26,5,0,2,0.05,0.05,0.05,0.05,0.09,1.21,0.23
+61,Simon Elliott\Simon-Elliott,nz NZL,MF,LA Galaxy,26,21,21,0,1909,91,1,4,0,0,19,3,0,18,0.05,0.24,0.05,0.24,0.85,0.90,0.14
+62,Cobi Jones\Cobi-Jones,us USA,MFFW,LA Galaxy,30,22,22,0,1890,86,6,8,0,0,22,1,0,23,0.29,0.67,0.29,0.67,1.10,1.05,0.05
+63,Carey Talley\Carey-Talley,us USA,DF,D.C. United,24,22,20,2,1890,86,2,2,0,1,55,9,1,12,0.10,0.19,0.10,0.19,0.57,2.62,0.48
+64,Jaime Moreno\Jaime-Moreno,bo BOL,FW,D.C. United,27,24,23,1,1888,79,9,3,2,3,31,4,0,40,0.43,0.57,0.33,0.48,1.91,1.48,0.19
+65,Evan Whitfield\Evan-Whitfield,us USA,DF,Chicago Fire,23,26,21,5,1882,72,0,1,0,0,36,4,0,3,0.00,0.05,0.00,0.05,0.14,1.72,0.19
+66,C. J. Brown\C-J-Brown,us USA,DF,Chicago Fire,25,22,22,0,1882,86,0,1,0,0,42,5,1,2,0.00,0.05,0.00,0.05,0.10,2.01,0.29
+67,Richard Mulrooney\Richard-Mulrooney,us USA,DFMF,San Jose Earthquakes,24,21,20,1,1878,89,1,5,0,0,26,4,0,13,0.05,0.29,0.05,0.29,0.62,1.25,0.19
+68,Richie Williams\Richie-Williams,us USA,MF,MetroStars,30,21,21,0,1868,89,0,1,0,0,48,6,0,2,0.00,0.05,0.00,0.05,0.10,2.31,0.29
+69,Paul Caligiuri\Paul-Caligiuri,us USA,DFMF,LA Galaxy,36,24,21,3,1854,77,0,2,0,0,30,4,0,6,0.00,0.10,0.00,0.10,0.29,1.46,0.19
+70,Leonel Álvarez\Leonel-Alvarez,co COL,MF,New England Revolution,35,22,22,0,1849,84,1,1,0,0,50,5,0,6,0.05,0.10,0.05,0.10,0.29,2.43,0.24
+71,Eric Quill\Eric-Quill,us USA,MF,Tampa Bay Mutiny,22,24,23,1,1840,77,2,7,0,0,25,3,1,11,0.10,0.44,0.10,0.44,0.54,1.22,0.20
+72,Tyrone Marshall\Tyrone-Marshall,jm JAM,DF,Miami Fusion,26,23,20,3,1831,80,3,0,0,0,29,5,0,6,0.15,0.15,0.15,0.15,0.29,1.43,0.25
+73,Carlos Llamosa\Carlos-Llamosa,us USA,DF,Miami Fusion,31,20,20,0,1827,91,0,0,0,0,13,5,1,0,0.00,0.00,0.00,0.00,0.00,0.64,0.30
+74,Peter Vermes\Peter-Vermes,us USA,DFFW,Kansas City Wizards,34,20,20,0,1826,91,0,1,0,0,20,2,0,1,0.00,0.05,0.00,0.05,0.05,0.99,0.10
+75,Mamadou Diallo\Mamadou-Diallo,sn SEN,FW,Tampa Bay Mutiny,29,22,20,2,1818,83,9,1,3,4,31,5,1,41,0.45,0.50,0.30,0.35,2.03,1.53,0.30
+76,Catê\Cate,br BRA,FW,New England Revolution,27,22,20,2,1807,82,8,6,5,5,16,1,1,23,0.40,0.70,0.15,0.45,1.15,0.80,0.10
+77,Jason Moore\Jason-Moore,us USA,MF,Colorado Rapids,22,26,19,7,1798,69,0,2,0,0,31,2,0,1,0.00,0.10,0.00,0.10,0.05,1.55,0.10
+78,Petter Villegas\Petter-Villegas,pr PUR,MFFW,MetroStars,25,22,22,0,1798,82,5,2,0,1,32,2,1,14,0.25,0.35,0.25,0.35,0.70,1.60,0.15
+79,Jeff Cunningham\Jeff-Cunningham,us USA,FW,Columbus Crew,24,22,20,2,1770,81,10,8,1,1,25,3,1,32,0.51,0.92,0.46,0.86,1.63,1.27,0.20
+80,Jeff Agoos\Jeff-Agoos,us USA,DF,San Jose Earthquakes,32,20,20,0,1765,88,2,2,0,0,13,3,0,5,0.10,0.20,0.10,0.20,0.25,0.66,0.15
+81,Sasha Victorine\Sasha-Victorine,us USA,FWMF,LA Galaxy,22,24,21,3,1758,73,7,3,0,0,19,0,0,24,0.36,0.51,0.36,0.51,1.23,0.97,0.00
+82,Mike Ammann\Mike-Ammann,us USA,GK,D.C. United,29,19,19,0,1739,92,0,0,0,0,0,1,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.05
+83,Mark Lisi\Mark-Lisi,us USA,MF,D.C. United,23,25,20,5,1720,69,4,2,0,0,26,1,0,16,0.21,0.31,0.21,0.31,0.84,1.36,0.05
+84,Robin Fraser\Robin-Fraser,us USA,DF,Colorado Rapids,34,20,19,1,1714,86,0,1,0,0,8,0,1,0,0.00,0.05,0.00,0.05,0.00,0.42,0.05
+85,John Maessner\John-Maessner,us USA,MFFW,Tampa Bay Mutiny,31,24,17,7,1707,71,1,0,0,0,25,2,1,3,0.05,0.05,0.05,0.05,0.16,1.32,0.16
+86,Craig Demmin\Craig-Demmin,tt TRI,DF,Tampa Bay Mutiny,29,19,19,0,1702,90,0,0,0,0,40,7,0,2,0.00,0.00,0.00,0.00,0.11,2.12,0.37
+87,Abdul Thompson Conteh\Abdul-Thompson-Conteh,sl SLE,FW,D.C. United,30,25,17,8,1676,67,14,1,0,0,26,2,0,45,0.75,0.81,0.75,0.81,2.42,1.40,0.11
+88,Landon Donovan\Landon-Donovan,us USA,MFFW,San Jose Earthquakes,18,22,17,5,1666,76,7,7,1,1,30,3,0,26,0.38,0.76,0.32,0.70,1.40,1.62,0.16
+89,Ryan Suarez\Ryan-Suarez,us USA,DF,Dallas Burn,23,20,19,1,1666,83,2,2,0,0,34,6,0,5,0.11,0.22,0.11,0.22,0.27,1.84,0.32
+90,Brian West\Brian-West,us USA,MF,Columbus Crew,22,21,19,2,1657,79,5,2,0,0,30,2,0,12,0.27,0.38,0.27,0.38,0.65,1.63,0.11
+91,Roy Lassiter\Roy-Lassiter,us USA,FWMF,Kansas City Wizards,31,23,19,4,1648,72,7,1,1,1,29,5,0,18,0.38,0.44,0.33,0.38,0.98,1.58,0.27
+92,Ryan Nelsen\Ryan-Nelsen,nz NZL,DF,D.C. United,23,19,19,0,1643,87,0,2,0,0,33,4,0,4,0.00,0.11,0.00,0.11,0.22,1.81,0.22
+93,Eric Dade\Eric-Dade,us USA,DF,Dallas Burn,31,21,20,1,1639,78,0,0,0,0,38,6,0,1,0.00,0.00,0.00,0.00,0.05,2.09,0.33
+94,Imad Baba\Imad-Baba,us USA,MF,Colorado Rapids,26,22,18,4,1631,74,1,3,0,0,32,6,0,15,0.06,0.22,0.06,0.22,0.83,1.77,0.33
+95,Steve Trittschuh\Steve-Trittschuh,us USA,DF,Tampa Bay Mutiny,35,18,18,0,1600,89,1,0,0,0,43,5,0,7,0.06,0.06,0.06,0.06,0.39,2.42,0.28
+96,Wolde Harris\Wolde-Harris,jm JAM,FW,New England Revolution,27,21,17,4,1584,75,3,3,1,2,36,1,0,22,0.17,0.34,0.11,0.28,1.25,2.05,0.06
+97,Jair\Jair,cv CPV,MFFW,Tampa Bay Mutiny,26,25,18,7,1565,63,1,3,0,0,23,1,0,10,0.06,0.23,0.06,0.23,0.58,1.32,0.06
+98,Piotr Nowak\Piotr-Nowak,pl POL,MFFW,Chicago Fire,36,18,18,0,1560,87,6,8,0,0,15,3,1,16,0.35,0.81,0.35,0.81,0.92,0.87,0.23
+99,Tony Meola\Tony-Meola,us USA,GK,Kansas City Wizards,31,17,17,0,1534,90,0,0,0,0,0,1,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.06
+100,Eddie Pope\Eddie-Pope,us USA,DF,D.C. United,27,19,18,1,1528,80,0,1,0,0,30,5,0,2,0.00,0.06,0.00,0.06,0.12,1.77,0.29
+101,Paul Broome\Paul-Broome,us USA,DF,Dallas Burn,24,22,16,6,1513,69,1,0,0,0,30,4,0,2,0.06,0.06,0.06,0.06,0.12,1.78,0.24
+102,Pedro Álvarez\Pedro-Alvarez,co COL,MF,MetroStars,30,21,17,4,1494,71,1,0,0,0,45,9,2,4,0.06,0.06,0.06,0.06,0.24,2.71,0.66
+103,Chris Dawes\Chris-Dawes,jm JAM,MF,Colorado Rapids,26,16,16,0,1478,92,0,0,0,0,36,6,1,4,0.00,0.00,0.00,0.00,0.24,2.19,0.43
+104,Alan Woods\Alan-Woods,us USA,DF,New England Revolution,22,18,15,3,1475,82,0,0,0,0,12,1,0,0,0.00,0.00,0.00,0.00,0.00,0.73,0.06
+105,Joe Addo\Joe-Addo,gh GHA,DF,Tampa Bay Mutiny,29,20,17,3,1467,73,1,1,0,0,19,4,0,2,0.06,0.12,0.06,0.12,0.12,1.17,0.25
+106,Andy Williams\Andy-Williams,jm JAM,MF,New England Revolution,23,20,17,3,1465,73,3,6,0,0,29,2,0,16,0.18,0.55,0.18,0.55,0.98,1.78,0.12
+107,Joselito Vaca\Joselito-Vaca,bo BOL,MF,Dallas Burn,18,21,17,4,1461,70,2,1,0,0,23,1,0,9,0.12,0.18,0.12,0.18,0.55,1.42,0.06
+108,Tab Ramos\Tab-Ramos,us USA,MF,MetroStars,34,18,17,1,1459,81,0,3,0,0,16,3,0,12,0.00,0.19,0.00,0.19,0.74,0.99,0.19
+109,Ronnie Ekelund\Ronnie-Ekelund,dk DEN,MFFW,San Jose Earthquakes,28,16,16,0,1421,89,0,1,0,0,36,2,0,9,0.00,0.06,0.00,0.06,0.57,2.28,0.13
+110,Johnny Torres\Johnny-Torres,us USA,MF,New England Revolution,24,21,15,6,1415,67,2,4,0,1,30,5,0,21,0.13,0.38,0.13,0.38,1.34,1.91,0.32
+111,Chris Albright\Chris-Albright,us USA,DF,D.C. United,22,23,14,9,1411,61,1,1,0,0,30,5,0,24,0.06,0.13,0.06,0.13,1.53,1.91,0.32
+112,John Harkes\John-Harkes,us USA,MF,Columbus Crew,33,18,16,2,1407,78,0,3,0,0,22,2,0,3,0.00,0.19,0.00,0.19,0.19,1.41,0.13
+113,Matt Reis\Matt-Reis,us USA,GK,LA Galaxy,25,16,15,1,1405,88,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+114,Daniel Hernández\Daniel-Hernandez,us USA,DFMF,MetroStars,24,16,15,1,1358,85,1,6,0,0,26,4,0,7,0.07,0.46,0.07,0.46,0.46,1.72,0.27
+115,Paul Bravo\Paul-Bravo,us USA,MFFW,Colorado Rapids,32,23,15,8,1352,59,6,0,0,0,21,1,0,21,0.40,0.40,0.40,0.40,1.40,1.40,0.07
+116,Rodrigo Faria\Rodrigo-Faria,br BRA,FW,MetroStars,23,21,11,10,1344,64,8,0,0,0,29,2,0,30,0.54,0.54,0.54,0.54,2.01,1.94,0.13
+117,Brian McBride\Brian-McBride,us USA,FW,Columbus Crew,28,15,14,1,1326,88,1,4,0,0,14,0,0,13,0.07,0.34,0.07,0.34,0.88,0.95,0.00
+118,Devin Barclay\Devin-Barclay,us USA,FW,Tampa Bay Mutiny,17,23,12,11,1324,58,3,1,0,0,12,2,0,15,0.20,0.27,0.20,0.27,1.02,0.82,0.14
+119,Francisco Gomez\Francisco-Gomez,us USA,MF,Kansas City Wizards,22,24,16,8,1320,55,4,3,0,0,17,0,1,13,0.27,0.48,0.27,0.48,0.89,1.16,0.07
+120,Ted Chronopoulos\Ted-Chronopoulos,us USA,MFDF,New England Revolution,28,16,15,1,1314,82,5,0,0,0,21,1,0,7,0.34,0.34,0.34,0.34,0.48,1.44,0.07
+121,Jay Heaps\Jay-Heaps,us USA,MFDF,New England Revolution,24,15,13,2,1311,87,0,2,0,0,34,5,0,5,0.00,0.14,0.00,0.14,0.34,2.33,0.34
+122,Craig Ziadie\Craig-Ziadie,jm JAM,DF,D.C. United,22,18,13,5,1307,73,0,2,0,0,44,6,0,3,0.00,0.14,0.00,0.14,0.21,3.03,0.41
+123,Stephen Herdsman\Stephen-Herdsman,us USA,DF,Colorado Rapids,25,20,16,4,1276,64,0,0,0,0,20,2,0,3,0.00,0.00,0.00,0.00,0.21,1.41,0.14
+124,Scott Garlick\Scott-Garlick,us USA,GK,Tampa Bay Mutiny,28,14,14,0,1270,91,0,1,0,0,1,2,0,0,0.00,0.07,0.00,0.07,0.00,0.07,0.14
+125,Carlos Bocanegra\Carlos-Bocanegra,us USA,DF,Chicago Fire,21,15,13,2,1250,83,1,1,0,0,19,2,0,3,0.07,0.14,0.07,0.14,0.22,1.37,0.14
+126,Ivan McKinley\Ivan-McKinley,za RSA,DF,Miami Fusion,31,19,17,2,1250,66,0,2,0,0,32,8,1,1,0.00,0.14,0.00,0.14,0.07,2.30,0.65
+127,Ross Paule\Ross-Paule,us USA,MF,Colorado Rapids,24,20,10,10,1236,62,1,10,0,0,23,3,0,10,0.07,0.80,0.07,0.80,0.73,1.67,0.22
+128,Duncan Oughton\Duncan-Oughton,nz NZL,MFDF,Columbus Crew,23,20,12,8,1233,62,0,1,0,0,28,3,0,5,0.00,0.07,0.00,0.07,0.36,2.04,0.22
+129,Ali Curtis\Ali-Curtis,us USA,DFFW,Tampa Bay Mutiny,22,20,12,8,1211,61,2,0,0,0,23,0,0,12,0.15,0.15,0.15,0.15,0.89,1.71,0.00
+130,Dante Washington\Dante-Washington,us USA,FW,Columbus Crew,30,21,13,8,1203,57,7,1,0,0,13,0,0,24,0.52,0.60,0.52,0.60,1.80,0.97,0.00
+131,Jim Curtin\Jim-Curtin,us USA,DF,Chicago Fire,21,18,12,6,1194,66,0,0,0,0,8,0,1,0,0.00,0.00,0.00,0.00,0.00,0.60,0.08
+132,Lance Key\Lance-Key,us USA,DF,Colorado Rapids,22,13,13,0,1193,92,0,1,0,0,29,3,0,1,0.00,0.08,0.00,0.08,0.08,2.19,0.23
+133,Luis Hernández\Luis-Hernandez,mx MEX,FW,LA Galaxy,32,14,12,2,1189,85,8,1,1,1,27,6,0,29,0.61,0.68,0.53,0.61,2.20,2.04,0.45
+134,Adin Brown\Adin-Brown,us USA,GK,Tampa Bay Mutiny,22,13,13,0,1188,91,0,0,0,0,1,0,0,0,0.00,0.00,0.00,0.00,0.00,0.08,0.00
+135,Mike Burns\Mike-Burns,us USA,DF,Kansas City Wizards,30,19,14,5,1179,62,0,1,0,0,24,3,0,1,0.00,0.08,0.00,0.08,0.08,1.83,0.23
+136,Eric Wynalda\Eric-Wynalda,us USA,FW,Chicago Fire,31,21,11,10,1167,56,10,5,1,1,19,0,0,25,0.77,1.16,0.69,1.08,1.93,1.47,0.00
+137,Adolfo Valencia\Adolfo-Valencia,co COL,FW,MetroStars,32,17,14,3,1155,68,5,1,0,0,25,0,0,19,0.39,0.47,0.39,0.47,1.48,1.95,0.00
+138,Bryan Namoff\Bryan-Namoff,us USA,MFDF,D.C. United,21,15,13,2,1152,77,0,0,0,0,39,2,0,4,0.00,0.00,0.00,0.00,0.31,3.05,0.16
+139,Carlos Valderrama\Carlos-Valderrama,co COL,MF,Colorado Rapids,39,12,12,0,1130,94,0,3,0,0,10,1,0,0,0.00,0.24,0.00,0.24,0.00,0.80,0.08
+140,Scott Garlick\Scott-Garlick,us USA,GK,Colorado Rapids,28,12,12,0,1130,94,0,1,0,0,0,2,0,0,0.00,0.08,0.00,0.08,0.00,0.00,0.16
+141,Gary Glasgow\Gary-Glasgow,tt TRI,FW,Kansas City Wizards,24,18,11,7,1124,62,2,3,0,0,23,2,0,14,0.16,0.40,0.16,0.40,1.12,1.84,0.16
+142,Stephen Armstrong\Stephen-Armstrong,za RSA,FW,D.C. United,24,15,12,3,1112,74,3,0,0,0,33,3,0,11,0.24,0.24,0.24,0.24,0.89,2.67,0.24
+143,Eric Denton\Eric-Denton,us USA,DF,Tampa Bay Mutiny,22,13,12,1,1111,86,0,2,0,0,11,4,0,2,0.00,0.16,0.00,0.16,0.16,0.89,0.32
+144,William Sunsing\William-Sunsing,cr CRC,FWMF,New England Revolution,23,22,11,11,1100,50,3,0,0,0,13,1,0,8,0.25,0.25,0.25,0.25,0.65,1.06,0.08
+145,Brian Kamler\Brian-Kamler,us USA,MF,D.C. United,28,17,11,6,1094,64,0,0,0,0,17,1,0,4,0.00,0.00,0.00,0.00,0.33,1.40,0.08
+146,Dwayne De Rosario\Dwayne-De-Rosario,ca CAN,MFFW,San Jose Earthquakes,22,21,11,10,1072,51,5,2,0,0,21,1,0,24,0.42,0.59,0.42,0.59,2.01,1.76,0.08
+147,Adam Frye\Adam-Frye,us USA,DFFW,LA Galaxy,26,22,9,13,1065,48,2,2,0,0,16,1,0,9,0.17,0.34,0.17,0.34,0.76,1.35,0.08
+148,Ramiro Corrales\Ramiro-Corrales,us USA,DFMF,San Jose Earthquakes,23,14,11,3,1058,76,1,0,0,0,32,5,1,10,0.09,0.09,0.09,0.09,0.85,2.72,0.51
+149,Braeden Cloutier\Braeden-Cloutier,us USA,MFFW,New England Revolution,26,13,12,1,1057,81,0,1,0,0,18,3,0,2,0.00,0.09,0.00,0.09,0.17,1.53,0.26
+150,Onandi Lowe\Onandi-Lowe,jm JAM,FW,Kansas City Wizards,26,13,10,3,1034,80,4,1,0,0,24,4,0,27,0.35,0.44,0.35,0.44,2.35,2.09,0.35
+151,Carlos Valderrama\Carlos-Valderrama,co COL,MF,Tampa Bay Mutiny,39,12,12,0,1012,84,1,6,1,2,2,3,2,4,0.09,0.62,0.00,0.53,0.36,0.18,0.44
+152,Antonio Martínez\Antonio-Martinez,mx MEX,MF,Dallas Burn,23,17,10,7,1011,60,1,6,0,0,15,1,0,4,0.09,0.62,0.09,0.62,0.36,1.34,0.09
+153,Kevin Hartman\Kevin-Hartman,us USA,GK,LA Galaxy,26,11,11,0,1007,92,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+154,Ritchie Kotschau\Ritchie-Kotschau,us USA,DF,Colorado Rapids,25,11,11,0,1006,92,0,1,0,0,15,0,1,1,0.00,0.09,0.00,0.09,0.09,1.34,0.09
+155,Jeff Causey\Jeff-Causey,us USA,GK,New England Revolution,29,11,10,1,1003,91,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+156,Luboš Kubík\Lubos-Kubik,cs TCHcz CZE,DFMF,Dallas Burn,37,11,11,0,998,91,1,1,0,0,12,0,1,5,0.09,0.18,0.09,0.18,0.45,1.08,0.09
+157,Ritchie Kotschau\Ritchie-Kotschau,us USA,DF,Tampa Bay Mutiny,25,11,10,1,994,90,0,0,0,0,21,3,0,2,0.00,0.00,0.00,0.00,0.18,1.90,0.27
+158,Bobby Convey\Bobby-Convey,us USA,MFFW,D.C. United,17,12,11,1,992,83,1,5,0,0,24,4,0,11,0.09,0.54,0.09,0.54,1.00,2.18,0.36
+159,Chris Carrieri\Chris-Carrieri,us USA,MF,Colorado Rapids,20,14,11,3,992,71,5,4,0,0,15,3,0,11,0.45,0.82,0.45,0.82,1.00,1.36,0.27
+160,Bobby Rhine\Bobby-Rhine,us USA,MFFW,Dallas Burn,24,18,10,8,972,54,5,4,0,0,24,2,0,24,0.46,0.83,0.46,0.83,2.22,2.22,0.19
+161,Shaker Asad\Shaker-Asad,ps PLE,MF,New England Revolution,21,19,9,10,970,51,1,1,0,0,28,3,0,5,0.09,0.19,0.09,0.19,0.46,2.60,0.28
+162,Scott Vermillion\Scott-Vermillion,us USA,DF,D.C. United,24,12,12,0,953,79,0,1,0,0,32,2,0,0,0.00,0.09,0.00,0.09,0.00,3.02,0.19
+163,Santino Quaranta\Santino-Quaranta,us USA,FWMF,D.C. United,16,16,10,6,949,59,5,1,0,0,21,1,0,18,0.47,0.57,0.47,0.57,1.71,1.99,0.09
+164,Bo Oshoniyi\Bo-Oshoniyi,us USA,GK,Kansas City Wizards,29,11,10,1,938,85,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+165,Jimmy Conrad\Jimmy-Conrad,us USA,DF,San Jose Earthquakes,23,16,8,8,928,58,0,0,0,0,21,2,0,2,0.00,0.00,0.00,0.00,0.19,2.04,0.19
+166,Mark Watson\Mark-Watson,ca CAN,DF,D.C. United,30,11,10,1,923,84,0,1,0,0,20,3,0,0,0.00,0.10,0.00,0.10,0.00,1.95,0.29
+167,Hristo Stoichkov\Hristo-Stoichkov,bg BUL,FWMF,Chicago Fire,34,17,10,7,916,54,6,2,2,3,14,4,0,28,0.59,0.79,0.39,0.59,2.75,1.38,0.39
+168,Juergen Sommer\Juergen-Sommer,us USA,GK,New England Revolution,31,10,10,0,911,91,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+169,Clint Mathis\Clint-Mathis,us USA,FWMF,MetroStars,24,10,10,0,905,91,7,3,0,0,15,6,0,17,0.70,0.99,0.70,0.99,1.69,1.49,0.60
+170,Lazo Alavanja\Lazo-Alavanja,us USA,MF,Miami Fusion,24,16,11,5,896,56,0,0,0,0,19,3,0,3,0.00,0.00,0.00,0.00,0.30,1.91,0.30
+171,Matt Okoh\Matt-Okoh,us USA,FWMF,New England Revolution,28,18,9,9,885,49,6,1,1,1,39,5,0,19,0.61,0.71,0.51,0.61,1.93,3.97,0.51
+172,Mo Johnston\Mo-Johnston,sco SCO,FW,Kansas City Wizards,37,11,10,1,864,79,1,1,0,0,18,0,0,7,0.10,0.21,0.10,0.21,0.73,1.87,0.00
+173,Adin Brown\Adin-Brown,us USA,GK,Colorado Rapids,22,9,9,0,830,92,0,0,0,0,1,1,0,0,0.00,0.00,0.00,0.00,0.00,0.11,0.11
+174,Mark Santel\Mark-Santel,us USA,MF,Kansas City Wizards,32,21,7,14,813,39,1,0,0,0,24,1,0,3,0.11,0.11,0.11,0.11,0.33,2.66,0.11
+175,Sergi Daniv\Sergi-Daniv,ua UKR,MF,Chicago Fire,25,14,9,5,813,58,2,3,0,0,24,3,0,6,0.22,0.55,0.22,0.55,0.66,2.66,0.33
+176,Andrew Gregor\Andrew-Gregor,us USA,MF,Kansas City Wizards,25,13,7,6,812,63,0,1,0,0,18,2,0,3,0.00,0.11,0.00,0.11,0.33,2.00,0.22
+177,Brian Mullan\Brian-Mullan,us USA,MF,LA Galaxy,22,10,9,1,809,81,2,2,0,0,16,0,0,11,0.22,0.44,0.22,0.44,1.22,1.78,0.00
+178,Eric Denton\Eric-Denton,us USA,DF,D.C. United,22,11,9,2,773,70,1,2,0,0,9,1,0,4,0.12,0.35,0.12,0.35,0.47,1.05,0.12
+179,Alexi Lalas\Alexi-Lalas,us USA,DF,LA Galaxy,30,11,9,2,764,70,2,1,0,0,18,1,0,7,0.24,0.35,0.24,0.35,0.82,2.12,0.12
+180,Raúl Díaz Arce\Raul-Diaz-Arce,sv SLV,FW,Colorado Rapids,30,12,10,2,764,64,3,3,0,0,13,0,0,8,0.35,0.71,0.35,0.71,0.94,1.53,0.00
+181,Billy Walsh\Billy-Walsh,us USA,MF,MetroStars,25,11,8,3,756,69,3,0,0,0,17,1,0,5,0.36,0.36,0.36,0.36,0.60,2.02,0.12
+182,Alex Comas\Alex-Comas,co COL,FW,MetroStars,29,12,10,2,748,62,2,1,1,1,21,4,1,11,0.24,0.36,0.12,0.24,1.32,2.53,0.60
+183,Marvin Quijano\Marvin-Quijano,sv SLV,MF,LA Galaxy,21,12,9,3,730,61,2,0,0,0,15,1,0,11,0.25,0.25,0.25,0.25,1.36,1.85,0.12
+184,Jamar Beasley\Jamar-Beasley,us USA,FW,Chicago Fire,21,18,8,10,727,40,4,3,0,0,18,0,0,17,0.50,0.87,0.50,0.87,2.10,2.23,0.00
+185,Ancil Elcock\Ancil-Elcock,tt TRI,DF,Columbus Crew,31,15,6,9,725,48,1,0,0,0,16,3,1,2,0.12,0.12,0.12,0.12,0.25,1.99,0.50
+186,Robert Warzycha\Robert-Warzycha,pl POL,MF,Columbus Crew,37,11,9,2,710,65,3,2,0,0,11,2,1,5,0.38,0.63,0.38,0.63,0.63,1.39,0.38
+187,Yari Allnutt\Yari-Allnutt,us USA,DFFWMF,New England Revolution,30,9,8,1,707,79,0,0,0,0,11,2,0,1,0.00,0.00,0.00,0.00,0.13,1.40,0.25
+188,Scott Cannon\Scott-Cannon,us USA,DF,Tampa Bay Mutiny,32,9,8,1,681,76,0,0,0,0,10,0,0,4,0.00,0.00,0.00,0.00,0.53,1.32,0.00
+189,Mark Simpson\Mark-Simpson,us USA,GK,D.C. United,34,7,7,0,630,90,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+190,Jay Heaps\Jay-Heaps,us USA,DFMF,Miami Fusion,24,13,4,9,606,47,0,1,0,0,12,0,0,4,0.00,0.15,0.00,0.15,0.59,1.78,0.00
+191,Tahj Jakins\Tahj-Jakins,us USA,DF,Kansas City Wizards,25,10,7,3,604,60,0,0,0,0,7,1,0,1,0.00,0.00,0.00,0.00,0.15,1.04,0.15
+192,Junior Agogo\Junior-Agogo,gh GHA,FW,Colorado Rapids,21,10,5,5,597,60,1,0,0,0,11,0,0,12,0.15,0.15,0.15,0.15,1.81,1.66,0.00
+193,Scott Vermillion\Scott-Vermillion,us USA,DF,Colorado Rapids,24,9,6,3,593,66,0,0,0,0,18,2,0,0,0.00,0.00,0.00,0.00,0.00,2.73,0.30
+194,Junior Agogo\Junior-Agogo,gh GHA,FW,San Jose Earthquakes,21,14,6,8,589,42,4,3,0,0,21,0,0,11,0.61,1.07,0.61,1.07,1.68,3.21,0.00
+195,José Carlos Fernández\Jose-Carlos-Fernandez,bo BOL,GK,New England Revolution,30,7,7,0,578,83,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+196,Danny Pena\Danny-Pena,us USA,MF,LA Galaxy,32,10,5,5,568,57,0,0,0,0,15,4,0,2,0.00,0.00,0.00,0.00,0.32,2.38,0.63
+197,Edson Buddle\Edson-Buddle,us USA,FW,Columbus Crew,19,17,5,12,556,33,3,1,0,0,9,0,0,12,0.49,0.65,0.49,0.65,1.94,1.46,0.00
+198,Danny Pena\Danny-Pena,us USA,MF,Tampa Bay Mutiny,32,6,6,0,549,92,1,0,0,0,7,4,0,1,0.16,0.16,0.16,0.16,0.16,1.15,0.66
+199,Mark Semioli\Mark-Semioli,us USA,DF,MetroStars,32,14,6,8,549,39,0,0,0,0,14,2,0,0,0.00,0.00,0.00,0.00,0.00,2.30,0.33
+200,Ante Razov\Ante-Razov,us USA,FW,Chicago Fire,26,7,6,1,541,77,2,0,0,0,8,1,0,11,0.33,0.33,0.33,0.33,1.83,1.33,0.17
+201,Brian Dunseth\Brian-Dunseth,us USA,DF,Miami Fusion,23,10,4,6,540,54,0,1,0,0,7,2,0,0,0.00,0.17,0.00,0.17,0.00,1.17,0.33
+202,Jeff Bilyk\Jeff-Bilyk,us USA,MF,Miami Fusion,23,15,5,10,535,36,0,0,0,0,18,4,0,0,0.00,0.00,0.00,0.00,0.00,3.03,0.67
+203,Brian Dunseth\Brian-Dunseth,us USA,DF,New England Revolution,23,8,6,2,526,66,0,0,0,0,6,1,0,0,0.00,0.00,0.00,0.00,0.00,1.03,0.17
+204,Gus Kartes\Gus-Kartes,us USA,FW,Tampa Bay Mutiny,19,18,5,13,516,29,0,0,0,0,9,1,0,3,0.00,0.00,0.00,0.00,0.52,1.57,0.17
+205,Leo Cullen\Leo-Cullen,us USA,DF,Miami Fusion,24,10,5,5,509,51,0,1,0,0,3,0,0,0,0.00,0.18,0.00,0.18,0.00,0.53,0.00
+206,Andrew Lewis\Andrew-Lewis,us USA,DF,Chicago Fire,26,13,5,8,502,39,1,0,0,0,4,0,1,1,0.18,0.18,0.18,0.18,0.18,0.72,0.18
+207,David Kramer\David-Kramer,us USA,GK,Colorado Rapids,28,5,5,0,466,93,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+208,Kevin Anderson\Kevin-Anderson,us USA,MF,Tampa Bay Mutiny,29,10,6,4,443,44,0,1,0,0,9,1,0,5,0.00,0.20,0.00,0.20,1.02,1.83,0.20
+209,David Vaudreuil\David-Vaudreuil,us USA,MFDF,Chicago Fire,34,9,4,5,415,46,0,1,0,0,9,1,0,2,0.00,0.22,0.00,0.22,0.43,1.95,0.22
+210,Greg Simmonds\Greg-Simmonds,jm JAM,FW,Miami Fusion,25,9,5,4,415,46,0,1,0,0,8,0,0,4,0.00,0.22,0.00,0.22,0.87,1.73,0.00
+211,Steve Shak\Steve-Shak,us USA,MF,MetroStars,22,9,4,5,409,45,0,0,0,0,8,0,0,1,0.00,0.00,0.00,0.00,0.22,1.76,0.00
+212,Steve Shak\Steve-Shak,us USA,MF,Colorado Rapids,22,5,4,1,397,79,0,1,0,0,15,3,0,2,0.00,0.23,0.00,0.23,0.45,3.40,0.68
+213,Scott Bower\Scott-Bower,us USA,MF,San Jose Earthquakes,22,12,3,9,391,33,0,0,0,0,9,0,0,1,0.00,0.00,0.00,0.00,0.23,2.07,0.00
+214,Miles Joseph\Miles-Joseph,us USA,FWMFDF,Dallas Burn,26,9,3,6,389,43,0,1,0,0,9,2,0,3,0.00,0.23,0.00,0.23,0.69,2.08,0.46
+215,John Harkes\John-Harkes,us USA,MF,New England Revolution,33,5,4,1,386,77,0,0,0,0,9,1,0,0,0.00,0.00,0.00,0.00,0.00,2.10,0.23
+216,Aleksey Korol\Aleksey-Korol,us USA,FW,Dallas Burn,23,15,3,12,372,25,2,0,0,0,12,1,0,6,0.48,0.48,0.48,0.48,1.45,2.90,0.24
+217,Diego Soñora\Diego-Sonora,ar ARG,DFMF,Tampa Bay Mutiny,31,4,4,0,353,88,0,0,0,0,1,1,0,0,0.00,0.00,0.00,0.00,0.00,0.25,0.25
+218,Ted Eck\Ted-Eck,us USA,MFFW,Dallas Burn,34,9,3,6,323,36,0,0,0,0,14,1,1,2,0.00,0.00,0.00,0.00,0.56,3.90,0.56
+219,Justin Evans\Justin-Evans,us USA,MF,Chicago Fire,24,6,2,4,322,54,0,0,0,0,11,1,0,0,0.00,0.00,0.00,0.00,0.00,3.07,0.28
+220,Justin Evans\Justin-Evans,us USA,MF,Dallas Burn,24,9,1,8,300,33,0,0,0,0,6,3,1,0,0.00,0.00,0.00,0.00,0.00,1.80,1.20
+221,John Wolyniec\John-Wolyniec,us USA,FW,Chicago Fire,24,4,3,1,285,71,1,0,0,0,8,2,0,2,0.32,0.32,0.32,0.32,0.63,2.53,0.63
+222,Leo Cullen\Leo-Cullen,us USA,DF,New England Revolution,24,4,3,1,284,71,0,0,0,0,1,0,0,0,0.00,0.00,0.00,0.00,0.00,0.32,0.00
+223,Craig Waibel\Craig-Waibel,us USA,DF,LA Galaxy,25,9,2,7,279,31,0,1,0,0,6,2,0,0,0.00,0.32,0.00,0.32,0.00,1.94,0.65
+224,Nick Downing\Nick-Downing,us USA,DF,New England Revolution,21,5,3,2,279,56,0,0,0,0,7,1,0,0,0.00,0.00,0.00,0.00,0.00,2.26,0.32
+225,Jose Alegria\Jose-Alegria,pe PER,MF,D.C. United,20,7,2,5,277,40,1,0,0,0,7,1,1,3,0.32,0.32,0.32,0.32,0.97,2.27,0.65
+226,Martin Klinger\Martin-Klinger,ec ECU,FW,MetroStars,20,9,2,7,272,30,0,0,0,0,7,0,0,4,0.00,0.00,0.00,0.00,1.32,2.32,0.00
+227,Isaias Bardales Jr.\Isaias-Bardales-Jr,us USA,FW,LA Galaxy,21,12,1,11,270,23,0,0,0,0,7,0,0,3,0.00,0.00,0.00,0.00,1.00,2.33,0.00
+228,Eddie Johnson\Eddie-Johnson,us USA,FW,Dallas Burn,16,10,1,9,263,26,2,0,0,0,7,0,0,4,0.68,0.68,0.68,0.68,1.37,2.40,0.00
+229,Todd Yeagley\Todd-Yeagley,us USA,DFMF,Columbus Crew,28,5,3,2,254,51,0,1,0,0,6,0,0,0,0.00,0.35,0.00,0.35,0.00,2.13,0.00
+230,Ross Paule\Ross-Paule,us USA,MF,MetroStars,24,5,3,2,245,49,0,1,0,0,5,1,0,2,0.00,0.37,0.00,0.37,0.73,1.84,0.37
+231,Josh Wolff\Josh-Wolff,us USA,FW,Chicago Fire,23,3,3,0,244,81,2,0,0,0,8,0,0,4,0.74,0.74,0.74,0.74,1.48,2.95,0.00
+232,Brian Ching\Brian-Ching,us USA,FW,LA Galaxy,22,8,1,7,228,29,1,1,0,0,6,0,0,2,0.39,0.79,0.39,0.79,0.79,2.37,0.00
+233,Seth Trembly\Seth-Trembly,us USA,DFMF,Colorado Rapids,18,4,1,3,198,50,0,0,0,0,1,1,0,0,0.00,0.00,0.00,0.00,0.00,0.45,0.45
+234,Gilmar\Gilmar,br BRA,FW,MetroStars,30,4,1,3,191,48,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+235,Eric Wynalda\Eric-Wynalda,us USA,FW,New England Revolution,31,3,2,1,182,61,0,0,0,0,2,1,0,0,0.00,0.00,0.00,0.00,0.00,0.99,0.49
+236,A. J. Wood\A-J-Wood,us USA,FW,D.C. United,27,7,1,6,180,26,0,0,0,0,8,2,0,1,0.00,0.00,0.00,0.00,0.50,4.00,1.00
+237,Raúl Díaz Arce\Raul-Diaz-Arce,sv SLV,FW,D.C. United,30,2,2,0,180,90,1,1,1,1,1,0,0,4,0.50,1.00,0.00,0.50,2.00,0.50,0.00
+238,Wes Hart\Wes-Hart,us USA,DF,Colorado Rapids,23,5,2,3,178,36,0,0,0,0,6,1,0,0,0.00,0.00,0.00,0.00,0.00,3.03,0.51
+239,Tim Sahaydak\Tim-Sahaydak,us USA,DF,Miami Fusion,23,4,2,2,171,43,0,0,0,0,3,2,0,0,0.00,0.00,0.00,0.00,0.00,1.58,1.05
+240,Roy Myers\Roy-Myers,cr CRC,MF,MetroStars,31,3,3,0,168,56,0,0,0,0,2,0,0,1,0.00,0.00,0.00,0.00,0.54,1.07,0.00
+241,Neathan Gibson\Neathan-Gibson,my MASus USA,FW,Colorado Rapids,30,8,1,7,154,19,0,0,0,0,5,0,0,2,0.00,0.00,0.00,0.00,1.17,2.92,0.00
+242,Michael Green\Michael-Green,us USA,DF,Kansas City Wizards,22,3,2,1,154,51,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+243,Wojtek Krakowiak\Wojtek-Krakowiak,us USA,MF,Tampa Bay Mutiny,24,4,1,3,151,38,0,0,0,0,5,0,0,1,0.00,0.00,0.00,0.00,0.60,2.98,0.00
+244,Mark Dougherty\Mark-Dougherty,us USA,GK,Columbus Crew,33,2,1,1,100,50,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+245,José Burciaga Jr.\Jose-Burciaga-Jr,us USA,DF,Kansas City Wizards,19,3,2,1,93,31,0,0,0,0,2,0,0,0,0.00,0.00,0.00,0.00,0.00,1.94,0.00
+246,Jeff Cassar\Jeff-Cassar,us USA,GK,Miami Fusion,26,1,1,0,90,90,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+247,Jon Conway\Jon-Conway,us USA,GK,San Jose Earthquakes,23,1,1,0,90,90,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+248,Chris Carrieri\Chris-Carrieri,us USA,MF,San Jose Earthquakes,20,5,0,5,89,18,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+249,Eddie Robinson\Eddie-Robinson,us USA,DF,San Jose Earthquakes,22,1,1,0,88,88,0,0,0,0,1,0,0,0,0.00,0.00,0.00,0.00,0.00,1.02,0.00
+250,Geoff Aunger\Geoff-Aunger,ca CAN,FWMFDF,Colorado Rapids,32,1,1,0,82,82,0,0,0,0,1,0,0,0,0.00,0.00,0.00,0.00,0.00,1.10,0.00
+251,David Hayes\David-Hayes,us USA,DF,Chicago Fire,24,3,1,2,80,27,1,0,0,0,2,0,0,1,1.13,1.13,1.13,1.13,1.13,2.25,0.00
+252,Chad McCarty\Chad-McCarty,us USA,MF,Tampa Bay Mutiny,23,2,2,0,79,40,0,0,0,0,4,0,0,0,0.00,0.00,0.00,0.00,0.00,4.56,0.00
+253,Roland Vargas-Aguilera\Roland-Vargas-Aguilera,bo BOL,MF,Columbus Crew,21,2,0,2,75,38,0,0,0,0,3,0,1,0,0.00,0.00,0.00,0.00,0.00,3.60,1.20
+254,Matt Chulis\Matt-Chulis,us USA,DF,Chicago Fire,23,1,1,0,71,71,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+255,Ian Woan\Ian-Woan,eng ENG,MF,Miami Fusion,33,1,0,1,66,66,0,2,0,0,0,0,0,2,0.00,2.73,0.00,2.73,2.73,0.00,0.00
+256,Brian Johnson\Brian-Johnson,us USA,MF,Kansas City Wizards,26,3,0,3,62,21,0,0,0,0,2,0,0,0,0.00,0.00,0.00,0.00,0.00,2.90,0.00
+257,Alex Bengard\Alex-Bengard,us USA,MF,LA Galaxy,21,3,0,3,56,19,0,0,0,0,1,0,0,1,0.00,0.00,0.00,0.00,1.61,1.61,0.00
+258,John DeBrito\John-DeBrito,us USA,MFDF,Columbus Crew,32,2,0,2,48,24,0,0,0,0,3,0,0,1,0.00,0.00,0.00,0.00,1.87,5.63,0.00
+259,Kalin Bankov\Kalin-Bankov,bg BUL,DF,Tampa Bay Mutiny,35,1,1,0,45,45,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+260,John Wolyniec\John-Wolyniec,us USA,FW,New England Revolution,24,1,0,1,45,45,0,0,0,0,0,1,0,1,0.00,0.00,0.00,0.00,2.00,0.00,2.00
+261,Kevin Adams\Kevin-Adams,tt TRI,DF,Columbus Crew,20,5,0,5,42,8,0,0,0,0,1,1,0,0,0.00,0.00,0.00,0.00,0.00,2.14,2.14
+262,Cordt Weinstein\Cordt-Weinstein,us USA,FW,MetroStars,28,2,0,2,41,21,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+263,Ian Woan\Ian-Woan,eng ENG,MF,Columbus Crew,33,3,0,3,41,14,0,0,0,0,4,0,0,0,0.00,0.00,0.00,0.00,0.00,8.78,0.00
+264,Mario Longo\Mario-Longo,us USA,MF,Columbus Crew,20,4,0,4,32,8,0,0,0,0,3,1,0,0,0.00,0.00,0.00,0.00,0.00,8.44,2.81
+265,Johnny Torres\Johnny-Torres,us USA,MF,Miami Fusion,24,2,0,2,31,16,0,1,0,0,1,0,0,0,0.00,2.90,0.00,2.90,0.00,2.90,0.00
+266,Josué Mayard\Josue-Mayard,ht HAI,DF,Dallas Burn,20,3,0,3,27,9,0,0,0,0,1,0,0,0,0.00,0.00,0.00,0.00,0.00,3.33,0.00
+267,Michael Butler\Michael-Butler,lr LBR,FW,MetroStars,25,1,0,1,24,24,1,0,0,0,0,0,0,1,3.75,3.75,3.75,3.75,3.75,0.00,0.00
+268,Chris Snitko\Chris-Snitko,us USA,GK,Dallas Burn,28,1,0,1,24,24,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+269,Alberto Muñoz,,,Tampa Bay Mutiny,,2,0,2,21,11,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+270,Pete Marino\Pete-Marino,us USA,FW,Miami Fusion,27,2,0,2,19,10,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+271,Jamar Beasley\Jamar-Beasley,us USA,FW,New England Revolution,21,1,0,1,19,19,0,0,0,0,2,0,0,0,0.00,0.00,0.00,0.00,0.00,9.47,0.00
+272,Judah Cooks\Judah-Cooks,us USA,MF,Miami Fusion,24,1,0,1,15,15,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+273,Kyle Beckerman\Kyle-Beckerman,us USA,MF,Miami Fusion,18,1,0,1,14,14,0,0,0,0,1,0,0,0,0.00,0.00,0.00,0.00,0.00,6.43,0.00
+274,Fausto Klinger\Fausto-Klinger,ec ECU,DF,MetroStars,24,1,0,1,14,14,0,0,0,0,1,0,0,0,0.00,0.00,0.00,0.00,0.00,6.43,0.00
+275,Brian Kelly\Brian-Kelly,us USA,MF,Tampa Bay Mutiny,26,2,0,2,13,7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+276,Mersim Beskovic\Mersim-Beskovic,scg SCG,DF,MetroStars,22,3,0,3,11,4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+277,Rivers Guthrie\Rivers-Guthrie,us USA,MF,Colorado Rapids,28,1,0,1,10,10,0,0,0,0,1,0,0,0,0.00,0.00,0.00,0.00,0.00,9.00,0.00
+278,Paul Schneider\Paul-Schneider,us USA,FW,Tampa Bay Mutiny,24,1,0,1,10,10,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+279,Judah Cooks\Judah-Cooks,us USA,MF,D.C. United,24,1,0,1,9,9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+280,Shaker Asad\Shaker-Asad,ps PLE,MF,Miami Fusion,21,1,0,1,8,8,0,1,0,0,0,0,0,0,0.00,11.25,0.00,11.25,0.00,0.00,0.00
+281,Narciso Fernandes\Narciso-Fernandes,us USA,MF,Kansas City Wizards,22,1,0,1,6,6,0,0,0,0,2,0,0,0,0.00,0.00,0.00,0.00,0.00,30.00,0.00
+282,Randy Merkel\Randy-Merkel,us USA,DF,Miami Fusion,24,1,0,1,6,6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+283,Chad Prince\Chad-Prince,us USA,DF,Chicago Fire,21,1,0,1,5,5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+284,Dario Brose\Dario-Brose,us USA,MF,San Jose Earthquakes,31,1,0,1,3,3,0,0,0,0,1,0,0,0,0.00,0.00,0.00,0.00,0.00,30.00,0.00
+285,Micah Cooks\Micah-Cooks,us USA,DFMF,D.C. United,19,1,0,1,2,2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+286,Wojtek Krakowiak\Wojtek-Krakowiak,us USA,MF,San Jose Earthquakes,24,1,0,1,2,2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+287,Amos Magee\Amos-Magee,us USA,FW,Chicago Fire,29,1,0,1,2,2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+288,Roland Vargas-Aguilera\Roland-Vargas-Aguilera,bo BOL,MF,New England Revolution,21,1,0,1,1,1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+289,Don Gramenz\Don-Gramenz,us USA,DF,Tampa Bay Mutiny,29,1,0,1,1,1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00

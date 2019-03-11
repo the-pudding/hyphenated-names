@@ -1,0 +1,505 @@
+Rk,Player,Nation,Pos,Squad,Age,Apps,Starts,Subs,Min,Mn/Ap,Gls,Ast,PK,PKatt,Fls,CrdY,CrdR,SoT,Gls,G+A,G-PK,G+A-PK,SoT,Fls,Crd
+1,Jeff Larentowicz\Jeff-Larentowicz,us USA,DFMF,Colorado Rapids,27,34,34,0,3060,90,7,1,0,1,45,4,0,18,0.21,0.24,0.21,0.24,0.53,1.32,0.12
+2,Kasey Keller\Kasey-Keller,us USA,GK,Seattle Sounders FC,41,34,34,0,3060,90,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+3,Nick LaBrocca\Nick-LaBrocca,us USA,DFMF,Chivas USA,26,34,34,0,3060,90,8,5,0,0,29,4,0,25,0.24,0.38,0.24,0.38,0.74,0.85,0.12
+4,Matt Pickens\Matt-Pickens,us USA,GK,Colorado Rapids,28,34,34,0,3060,90,0,0,0,0,0,2,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.06
+5,Tally Hall\Tally-Hall,us USA,GK,Houston Dynamo,25,34,34,0,3060,90,0,0,0,0,0,1,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.03
+6,Sébastien Le Toux\Sebastien-Le-Toux,fr FRA,FWMF,Philadelphia Union,27,34,34,0,3060,90,11,7,4,4,36,0,0,30,0.32,0.53,0.21,0.41,0.88,1.06,0.00
+7,Sebastián Miranda\Sebastian-Miranda,cl CHI,DF,Columbus Crew,30,34,34,0,3047,90,0,3,0,0,17,5,0,2,0.00,0.09,0.00,0.09,0.06,0.50,0.15
+8,Joel Lindpere\Joel-Lindpere,ee EST,MF,New York Red Bulls,29,34,34,0,3045,90,7,6,0,0,45,4,0,22,0.21,0.38,0.21,0.38,0.65,1.33,0.12
+9,Kosuke Kimura\Kosuke-Kimura,jp JPN,DF,Colorado Rapids,26,34,34,0,2990,88,1,0,0,0,16,0,0,6,0.03,0.03,0.03,0.03,0.18,0.48,0.00
+10,Jon Busch\Jon-Busch,us USA,GK,San Jose Earthquakes,34,33,33,0,2970,90,0,0,0,0,0,1,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.03
+11,Geoff Cameron\Geoff-Cameron,us USA,DFMF,Houston Dynamo,25,33,33,0,2970,90,5,3,0,0,29,2,0,18,0.15,0.24,0.15,0.24,0.55,0.88,0.06
+12,Danny Califf\Danny-Califf,us USA,DF,Philadelphia Union,30,33,33,0,2970,90,1,0,0,0,33,4,0,4,0.03,0.03,0.03,0.03,0.12,1.00,0.12
+13,Kevin Hartman\Kevin-Hartman,us USA,GK,FC Dallas,36,33,33,0,2970,90,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+14,Nick Rimando\Nick-Rimando,us USA,GK,Real Salt Lake,31,33,33,0,2970,90,0,0,0,0,0,1,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.03
+15,Kevin Alston\Kevin-Alston,us USA,DF,New England Revolution,22,33,33,0,2952,90,0,0,0,0,25,1,0,1,0.00,0.00,0.00,0.00,0.03,0.76,0.03
+16,Gonzalo Segares\Gonzalo-Segares,cr CRC,DF,Chicago Fire,28,33,33,0,2948,89,0,4,0,0,44,8,0,3,0.00,0.12,0.00,0.12,0.09,1.34,0.24
+17,Osvaldo Alonso\Osvaldo-Alonso,cu CUB,MF,Seattle Sounders FC,25,33,32,1,2892,88,3,2,1,1,50,7,0,11,0.09,0.16,0.06,0.12,0.34,1.56,0.22
+18,Brad Davis\Brad-Davis,us USA,MF,Houston Dynamo,29,34,34,0,2884,85,4,14,3,3,38,5,0,15,0.12,0.56,0.03,0.47,0.47,1.19,0.16
+19,Dan Kennedy\Dan-Kennedy,us USA,GK,Chivas USA,28,32,32,0,2880,90,0,0,0,0,0,2,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.06
+20,Drew Moor\Drew-Moor,us USA,DF,Colorado Rapids,27,32,32,0,2880,90,4,0,0,0,22,9,0,9,0.12,0.12,0.12,0.12,0.28,0.69,0.28
+21,Todd Dunivant\Todd-Dunivant,us USA,DF,LA Galaxy,30,32,32,0,2880,90,0,2,0,0,25,2,0,5,0.00,0.06,0.00,0.06,0.16,0.78,0.06
+22,Matt Besler\Matt-Besler,us USA,DF,Sporting KC,23,32,32,0,2880,90,2,1,0,0,23,2,0,3,0.06,0.09,0.06,0.09,0.09,0.72,0.06
+23,Carlos Valdés\Carlos-Valdes,co COL,DF,Philadelphia Union,25,32,32,0,2880,90,1,1,0,0,37,8,0,4,0.03,0.06,0.03,0.06,0.12,1.16,0.25
+24,William Hesmer\William-Hesmer,us USA,GK,Columbus Crew,29,32,32,0,2880,90,0,0,0,0,0,2,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.06
+25,Shalrie Joseph\Shalrie-Joseph,gd GRN,MFDF,New England Revolution,32,32,32,0,2861,89,8,0,4,5,37,7,1,23,0.25,0.25,0.13,0.13,0.72,1.16,0.25
+26,Chad Marshall\Chad-Marshall,us USA,DF,Columbus Crew,26,32,32,0,2835,89,0,1,0,0,19,2,0,6,0.00,0.03,0.00,0.03,0.19,0.60,0.06
+27,Sheanon Williams\Sheanon-Williams,us USA,DF,Philadelphia Union,20,32,32,0,2825,88,1,3,0,0,38,3,1,7,0.03,0.13,0.03,0.13,0.22,1.21,0.13
+28,Eric Brunner\Eric-Brunner,us USA,DF,Portland Timbers,24,32,31,1,2796,87,3,0,0,0,19,1,1,4,0.10,0.10,0.10,0.10,0.13,0.61,0.06
+29,André Hainault\Andre-Hainault,ca CAN,DF,Houston Dynamo,24,31,31,0,2790,90,1,0,0,0,44,1,0,1,0.03,0.03,0.03,0.03,0.03,1.42,0.03
+30,Jack Jewsbury\Jack-Jewsbury,us USA,MFDF,Portland Timbers,29,31,31,0,2790,90,7,6,3,5,36,5,0,20,0.23,0.42,0.13,0.32,0.65,1.16,0.16
+31,Julius James\Julius-James,tt TRI,DF,Columbus Crew,26,31,31,0,2790,90,1,0,0,0,53,7,0,2,0.03,0.03,0.03,0.03,0.06,1.71,0.23
+32,George John\George-John,us USA,DF,FC Dallas,23,31,31,0,2780,90,3,1,0,0,24,3,1,7,0.10,0.13,0.10,0.13,0.23,0.78,0.13
+33,Jimmy Nielsen\Jimmy-Nielsen,dk DEN,GK,Sporting KC,33,31,31,0,2767,89,0,0,0,0,0,2,1,0,0.00,0.00,0.00,0.00,0.00,0.00,0.10
+34,Perry Kitchen\Perry-Kitchen,us USA,DFMF,D.C. United,18,31,30,1,2727,88,1,0,0,0,33,4,0,2,0.03,0.03,0.03,0.03,0.07,1.09,0.13
+35,Ugo Ihemelu\Ugo-Ihemelu,us USA,DF,FC Dallas,27,31,30,1,2726,88,2,2,0,0,28,6,0,3,0.07,0.13,0.07,0.13,0.10,0.92,0.20
+36,Roy Miller\Roy-Miller,cr CRC,DF,New York Red Bulls,26,30,30,0,2698,90,0,1,0,0,29,5,0,5,0.00,0.03,0.00,0.03,0.17,0.97,0.17
+37,Chris Wondolowski\Chris-Wondolowski,us USA,FW,San Jose Earthquakes,28,30,30,0,2669,89,16,3,1,2,29,3,0,52,0.54,0.64,0.51,0.61,1.75,0.98,0.10
+38,Daniel Hernández\Daniel-Hernandez,us USA,DFMF,FC Dallas,34,30,30,0,2666,89,2,3,1,1,47,6,0,4,0.07,0.17,0.03,0.14,0.14,1.59,0.20
+39,Brek Shea\Brek-Shea,us USA,FWMFDF,FC Dallas,20,31,30,1,2648,85,11,4,0,0,25,5,1,23,0.37,0.51,0.37,0.51,0.78,0.85,0.20
+40,Jan Gunnar Solli\Jan-Gunnar-Solli,no NOR,DFMF,New York Red Bulls,29,31,31,0,2640,85,0,7,0,0,20,1,1,4,0.00,0.24,0.00,0.24,0.14,0.68,0.07
+41,A.J. DeLaGarza\AJ-DeLaGarza,gu GUM,DF,LA Galaxy,23,30,30,0,2625,88,0,0,0,0,31,3,0,1,0.00,0.00,0.00,0.00,0.03,1.06,0.10
+42,Corey Ashe\Corey-Ashe,us USA,MFDF,Houston Dynamo,24,32,30,2,2617,82,0,0,0,0,13,2,0,1,0.00,0.00,0.00,0.00,0.03,0.45,0.07
+43,Troy Perkins\Troy-Perkins,us USA,GK,Portland Timbers,29,29,29,0,2610,90,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+44,Omar Gonzalez\Omar-Gonzalez,us USA,DF,LA Galaxy,22,29,29,0,2598,90,2,1,0,0,16,3,0,6,0.07,0.10,0.07,0.10,0.21,0.55,0.10
+45,Dominic Oduro\Dominic-Oduro,gh GHA,FW,Chicago Fire,25,33,29,4,2597,79,12,2,0,0,25,5,0,40,0.42,0.49,0.42,0.49,1.39,0.87,0.17
+46,Heath Pearce\Heath-Pearce,us USA,DF,Chivas USA,26,30,29,1,2580,86,0,2,0,0,13,2,0,0,0.00,0.07,0.00,0.07,0.00,0.45,0.07
+47,James Riley\James-Riley,us USA,DF,Seattle Sounders FC,28,29,29,0,2578,89,0,1,0,0,17,3,0,1,0.00,0.03,0.00,0.03,0.03,0.59,0.10
+48,Brian Carroll\Brian-Carroll,us USA,MF,Philadelphia Union,29,30,30,0,2570,86,1,0,0,0,27,5,0,3,0.04,0.04,0.04,0.04,0.11,0.95,0.18
+49,Kenny Cooper\Kenny-Cooper,us USA,FW,Portland Timbers,26,34,29,5,2553,75,8,1,0,0,26,2,0,30,0.28,0.32,0.28,0.32,1.06,0.92,0.07
+50,Vitor Junior\Vitor-Junior,br BRA,MF,LA Galaxy,22,30,30,0,2549,85,4,1,0,0,35,4,1,13,0.14,0.18,0.14,0.18,0.46,1.24,0.18
+51,Ramiro Corrales\Ramiro-Corrales,us USA,DFMF,San Jose Earthquakes,33,29,29,0,2548,88,2,0,0,0,28,7,0,4,0.07,0.07,0.07,0.07,0.14,0.99,0.25
+52,Nat Borchers\Nat-Borchers,us USA,DF,Real Salt Lake,29,30,30,0,2547,85,3,1,0,0,14,1,2,6,0.11,0.14,0.11,0.14,0.21,0.49,0.11
+53,Marvell Wynne\Marvell-Wynne,us USA,DF,Colorado Rapids,24,29,28,1,2531,87,0,1,0,0,16,2,0,0,0.00,0.04,0.00,0.04,0.00,0.57,0.07
+54,Tim Ream\Tim-Ream,us USA,DF,New York Red Bulls,23,28,28,0,2520,90,0,1,0,0,10,2,0,3,0.00,0.04,0.00,0.04,0.11,0.36,0.07
+55,Sean Johnson\Sean-Johnson,us USA,GK,Chicago Fire,21,28,28,0,2520,90,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+56,Andy Najar\Andy-Najar,hn HON,MF,D.C. United,17,31,28,3,2518,81,5,3,0,0,44,2,1,20,0.18,0.29,0.18,0.29,0.71,1.57,0.11
+57,Logan Pause\Logan-Pause,us USA,MF,Chicago Fire,29,29,28,1,2513,87,0,0,0,0,25,3,0,2,0.00,0.00,0.00,0.00,0.07,0.90,0.11
+58,Jalil Anibaba\Jalil-Anibaba,us USA,DF,Chicago Fire,22,29,27,2,2508,87,2,1,0,0,27,1,0,4,0.07,0.11,0.07,0.11,0.14,0.97,0.04
+59,Pablo Mastroeni\Pablo-Mastroeni,us USA,MF,Colorado Rapids,34,30,30,0,2506,84,1,3,0,0,28,5,0,1,0.04,0.14,0.04,0.14,0.04,1.01,0.18
+60,Marvin Chávez\Marvin-Chavez,hn HON,FWMF,FC Dallas,27,31,30,1,2505,81,6,2,0,0,38,4,0,28,0.22,0.29,0.22,0.29,1.01,1.37,0.14
+61,Emmanuel Ekpo\Emmanuel-Ekpo,ng NGA,MF,Columbus Crew,23,32,29,3,2503,78,1,1,0,0,48,8,2,6,0.04,0.07,0.04,0.07,0.22,1.73,0.36
+62,Jason Hernandez\Jason-Hernandez,pr PUR,DF,San Jose Earthquakes,27,28,28,0,2490,89,0,0,0,0,24,4,0,0,0.00,0.00,0.00,0.00,0.00,0.87,0.14
+63,Gershon Koffie\Gershon-Koffie,gh GHA,MF,Vancouver Whitecaps FC,19,30,28,2,2483,83,1,0,0,0,58,3,1,9,0.04,0.04,0.04,0.04,0.33,2.10,0.14
+64,Camilo Sanvezzo\Camilo-Sanvezzo,br BRA,FW,Vancouver Whitecaps FC,22,32,29,3,2478,77,12,1,2,2,47,5,0,37,0.44,0.47,0.36,0.40,1.34,1.71,0.18
+65,Ante Jazić\Ante-Jazic,ca CAN,DF,Chivas USA,34,28,28,0,2465,88,0,5,0,0,22,3,0,2,0.00,0.18,0.00,0.18,0.07,0.80,0.11
+66,A. J. Soares\A-J-Soares,us USA,DF,New England Revolution,22,28,28,0,2463,88,1,0,0,0,27,2,2,5,0.04,0.04,0.04,0.04,0.18,0.99,0.15
+67,Bobby Boswell\Bobby-Boswell,us USA,DF,Houston Dynamo,27,28,27,1,2459,88,5,1,0,0,20,6,0,10,0.18,0.22,0.18,0.22,0.37,0.73,0.22
+68,Alain Rochat\Alain-Rochat,ch SUI,MFDF,Vancouver Whitecaps FC,27,28,27,1,2434,87,3,1,0,0,35,6,0,5,0.11,0.15,0.11,0.15,0.18,1.29,0.22
+69,Matt Reis\Matt-Reis,us USA,GK,New England Revolution,35,27,27,0,2430,90,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,0.00,0.04
+70,Kyle Beckerman\Kyle-Beckerman,us USA,MF,Real Salt Lake,28,29,27,2,2424,84,3,7,0,0,36,6,1,13,0.11,0.37,0.11,0.37,0.48,1.34,0.26
+71,Zach Loyd\Zach-Loyd,us USA,DF,FC Dallas,23,30,28,2,2413,80,1,3,0,0,37,4,0,1,0.04,0.15,0.04,0.15,0.04,1.38,0.15
+72,Stefan Frei\Stefan-Frei,ch SUI,GK,Toronto FC,24,27,27,0,2405,89,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+73,Teemu Tainio\Teemu-Tainio,fi FIN,MF,New York Red Bulls,31,28,28,0,2401,86,0,1,0,0,45,6,1,4,0.00,0.04,0.00,0.04,0.15,1.69,0.26
+74,Diego Chará\Diego-Chara,co COL,MF,Portland Timbers,24,28,27,1,2398,86,2,4,0,0,64,7,0,7,0.08,0.23,0.08,0.23,0.26,2.40,0.26
+75,Clyde Simms\Clyde-Simms,us USA,MF,D.C. United,28,29,29,0,2398,83,0,0,0,0,20,2,0,1,0.00,0.00,0.00,0.00,0.04,0.75,0.08
+76,Bill Hamid\Bill-Hamid,us USA,GK,D.C. United,20,28,28,0,2392,85,0,0,0,0,0,1,1,0,0.00,0.00,0.00,0.00,0.00,0.00,0.08
+77,Jeff Parke\Jeff-Parke,us USA,DF,Seattle Sounders FC,28,28,28,0,2385,85,1,0,0,0,17,2,0,4,0.04,0.04,0.04,0.04,0.15,0.64,0.08
+78,Faryd Mondragón\Faryd-Mondragon,co COL,GK,Philadelphia Union,39,27,27,0,2385,88,0,0,0,0,0,1,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.04
+79,Graham Zusi\Graham-Zusi,us USA,FWMF,Sporting KC,24,32,25,7,2332,73,5,5,0,0,26,4,0,16,0.19,0.39,0.19,0.39,0.62,1.00,0.15
+80,Kalif Alhassan\Kalif-Alhassan,gh GHA,FWMF,Portland Timbers,20,32,27,5,2327,73,0,5,0,0,28,3,1,14,0.00,0.19,0.00,0.19,0.54,1.08,0.15
+81,Dane Richards\Dane-Richards,jm JAM,FWMF,New York Red Bulls,27,27,27,0,2325,86,6,6,0,0,46,5,1,21,0.23,0.46,0.23,0.46,0.81,1.78,0.23
+82,Marco Pappa\Marco-Pappa,gt GUA,MF,Chicago Fire,23,29,27,2,2316,80,8,1,0,0,42,2,0,41,0.31,0.35,0.31,0.35,1.59,1.63,0.08
+83,Sean Franklin\Sean-Franklin,us USA,DF,LA Galaxy,25,27,25,2,2294,85,4,3,0,0,23,2,0,7,0.16,0.27,0.16,0.27,0.27,0.90,0.08
+84,Fredy Montero\Fredy-Montero,co COL,FW,Seattle Sounders FC,23,30,27,3,2294,77,12,8,0,1,55,7,0,42,0.47,0.78,0.47,0.78,1.65,2.16,0.27
+85,Thierry Henry\Thierry-Henry,fr FRA,FW,New York Red Bulls,33,26,26,0,2263,87,14,3,0,1,28,3,2,30,0.56,0.68,0.56,0.68,1.19,1.11,0.20
+86,Patrick Nyarko\Patrick-Nyarko,gh GHA,MFFW,Chicago Fire,25,30,24,6,2263,75,1,7,0,0,30,2,0,10,0.04,0.32,0.04,0.32,0.40,1.19,0.08
+87,Daniel Woolard\Daniel-Woolard,us USA,DF,D.C. United,26,26,26,0,2251,87,1,0,0,0,16,0,0,1,0.04,0.04,0.04,0.04,0.04,0.64,0.00
+88,Khari Stephenson\Khari-Stephenson,jm JAM,MF,San Jose Earthquakes,30,31,27,4,2247,73,5,2,0,0,41,3,0,26,0.20,0.28,0.20,0.28,1.04,1.64,0.12
+89,Jair Benítez\Jair-Benitez,co COL,DF,FC Dallas,32,27,25,2,2227,83,0,1,0,0,23,2,0,2,0.00,0.04,0.00,0.04,0.08,0.93,0.08
+90,Eddie Gaven\Eddie-Gaven,us USA,MFGK,Columbus Crew,24,26,26,0,2224,86,5,1,0,0,28,0,0,24,0.20,0.24,0.20,0.24,0.97,1.13,0.00
+91,David Beckham\David-Beckham,eng ENG,MF,LA Galaxy,35,26,25,1,2222,86,2,13,0,0,26,10,0,9,0.08,0.61,0.08,0.61,0.36,1.05,0.41
+92,Robbie Rogers\Robbie-Rogers,us USA,MFDF,Columbus Crew,23,27,24,3,2219,82,2,7,1,1,27,2,0,11,0.08,0.37,0.04,0.32,0.45,1.10,0.08
+93,Chance Myers\Chance-Myers,us USA,DFMF,Sporting KC,23,28,24,4,2211,79,0,1,0,0,36,1,0,5,0.00,0.04,0.00,0.04,0.20,1.47,0.04
+94,Cory Gibbs\Cory-Gibbs,us USA,DF,Chicago Fire,31,26,26,0,2202,85,3,0,0,0,30,6,1,5,0.12,0.12,0.12,0.12,0.20,1.23,0.29
+95,Kei Kamara\Kei-Kamara,sl SLE,FW,Sporting KC,26,30,24,6,2200,73,9,4,2,2,37,2,0,29,0.37,0.53,0.29,0.45,1.19,1.51,0.08
+96,Chris Tierney\Chris-Tierney,us USA,MFDF,New England Revolution,25,27,25,2,2183,81,2,4,0,0,13,2,2,8,0.08,0.25,0.08,0.25,0.33,0.54,0.16
+97,Tyrone Marshall\Tyrone-Marshall,jm JAM,DF,Colorado Rapids,36,27,24,3,2176,81,0,1,0,0,24,3,0,0,0.00,0.04,0.00,0.04,0.00,0.99,0.12
+98,Darrius Barnes\Darrius-Barnes,us USA,DF,New England Revolution,24,28,22,6,2159,77,0,0,0,0,14,1,0,1,0.00,0.00,0.00,0.00,0.04,0.58,0.04
+99,Júlio César\Julio-Cesar,br BRA,DF,Sporting KC,32,27,25,2,2148,80,2,3,0,0,30,3,1,4,0.08,0.21,0.08,0.21,0.17,1.26,0.17
+100,Omar Bravo\Omar-Bravo,mx MEX,FW,Sporting KC,30,27,26,1,2143,79,9,2,2,2,22,4,2,25,0.38,0.46,0.29,0.38,1.05,0.92,0.25
+101,Jorge Perlaza\Jorge-Perlaza,co COL,FW,Portland Timbers,25,31,26,5,2139,69,6,2,0,0,22,2,0,12,0.25,0.34,0.25,0.34,0.50,0.93,0.08
+102,Jámison Olave\Jamison-Olave,co COL,DF,Real Salt Lake,31,24,24,0,2128,89,2,0,0,0,30,3,1,7,0.08,0.08,0.08,0.08,0.30,1.27,0.17
+103,Ty Harden\Ty-Harden,us USA,DF,Toronto FC,26,26,24,2,2121,82,0,0,0,0,24,3,1,1,0.00,0.00,0.00,0.00,0.04,1.02,0.17
+104,Zarek Valentin\Zarek-Valentin,us USA,DF,Chivas USA,19,25,24,1,2112,85,0,0,0,0,20,5,0,0,0.00,0.00,0.00,0.00,0.00,0.85,0.21
+105,Chris Pontius\Chris-Pontius,us USA,FWMF,D.C. United,23,25,25,0,2106,84,7,4,2,2,18,2,0,20,0.30,0.47,0.21,0.38,0.85,0.77,0.09
+106,C. J. Sapong\C-J-Sapong,us USA,FW,Sporting KC,22,34,22,12,2101,62,5,4,0,0,30,0,0,25,0.21,0.39,0.21,0.39,1.07,1.29,0.00
+107,Fabián Espíndola\Fabian-Espindola,ar ARG,FW,Real Salt Lake,25,27,25,2,2090,77,10,3,1,1,39,6,0,31,0.43,0.56,0.39,0.52,1.33,1.68,0.26
+108,Will Johnson\Will-Johnson,ca CAN,FWMF,Real Salt Lake,24,25,22,3,2057,82,2,1,0,0,20,6,1,15,0.09,0.13,0.09,0.13,0.66,0.88,0.31
+109,Ben Zemanski\Ben-Zemanski,us USA,MFDF,Chivas USA,22,28,23,5,2054,73,2,4,0,0,30,6,0,5,0.09,0.26,0.09,0.26,0.22,1.31,0.26
+110,Justin Braun\Justin-Braun,us USA,FW,Chivas USA,23,29,22,7,2048,71,8,3,0,0,42,4,0,29,0.35,0.48,0.35,0.48,1.27,1.85,0.18
+111,Benny Feilhaber\Benny-Feilhaber,us USA,MF,New England Revolution,26,23,23,0,2046,89,4,6,0,0,37,3,1,11,0.18,0.44,0.18,0.44,0.48,1.63,0.18
+112,Bobby Burling\Bobby-Burling,us USA,DF,San Jose Earthquakes,26,23,23,0,2040,89,0,1,0,0,22,4,2,2,0.00,0.04,0.00,0.04,0.09,0.97,0.26
+113,Alejandro Moreno\Alejandro-Moreno,ve VEN,FW,Chivas USA,31,24,22,2,2015,84,5,1,0,0,42,0,0,12,0.22,0.27,0.22,0.27,0.54,1.88,0.00
+114,Andrés Mendoza\Andres-Mendoza,pe PER,FW,Columbus Crew,32,29,25,4,2012,69,13,1,5,5,19,1,0,31,0.58,0.63,0.36,0.40,1.39,0.85,0.04
+115,Mamadou Danso\Mamadou-Danso,gm GAM,DF,Portland Timbers,27,24,23,1,1998,83,3,0,0,0,7,0,0,7,0.14,0.14,0.14,0.14,0.32,0.32,0.00
+116,Tyson Wahl\Tyson-Wahl,us USA,DF,Seattle Sounders FC,26,23,22,1,1990,87,1,2,0,0,22,5,0,2,0.05,0.14,0.05,0.14,0.09,0.99,0.23
+117,Rodney Wallace\Rodney-Wallace,cr CRC,DFMF,Portland Timbers,22,25,22,3,1975,79,2,1,0,0,29,6,0,6,0.09,0.14,0.09,0.14,0.27,1.32,0.27
+118,Roger Espinoza\Roger-Espinoza,hn HON,MFDF,Sporting KC,24,24,24,0,1974,82,1,3,0,0,44,2,1,5,0.05,0.18,0.05,0.18,0.23,2.01,0.14
+119,Andy Williams\Andy-Williams,jm JAM,MF,Real Salt Lake,33,31,20,11,1969,64,2,1,0,0,33,2,0,13,0.09,0.14,0.09,0.14,0.59,1.51,0.09
+120,Richard Eckersley\Richard-Eckersley,eng ENG,DF,Toronto FC,21,23,22,1,1952,85,0,0,0,0,40,6,0,3,0.00,0.00,0.00,0.00,0.14,1.84,0.28
+121,Jackson\Jackson,br BRA,MFDF,FC Dallas,22,28,22,6,1950,70,3,2,0,0,39,8,1,16,0.14,0.23,0.14,0.23,0.74,1.80,0.42
+122,Jhon Kennedy Hurtado\Jhon-Kennedy-Hurtado,co COLve VEN,DF,Seattle Sounders FC,26,23,23,0,1943,85,0,0,0,0,30,4,2,1,0.00,0.00,0.00,0.00,0.05,1.39,0.28
+123,Wells Thompson\Wells-Thompson,us USA,MF,Colorado Rapids,27,31,22,9,1935,62,3,3,0,0,32,4,0,9,0.14,0.28,0.14,0.28,0.42,1.49,0.19
+124,Ethan White\Ethan-White,us USA,DF,D.C. United,20,24,21,3,1929,80,1,0,0,0,14,3,0,4,0.05,0.05,0.05,0.05,0.19,0.65,0.14
+125,Álvaro Saborío\Alvaro-Saborio,cr CRC,FW,Real Salt Lake,28,23,22,1,1923,84,11,2,3,3,43,3,0,24,0.51,0.61,0.37,0.47,1.12,2.01,0.14
+126,Josh Wolff\Josh-Wolff,us USA,FW,D.C. United,33,30,23,7,1917,64,5,6,0,0,17,1,0,17,0.23,0.52,0.23,0.52,0.80,0.80,0.05
+127,Chris Wingert\Chris-Wingert,us USA,DF,Real Salt Lake,28,23,22,1,1914,83,0,0,0,0,32,5,0,2,0.00,0.00,0.00,0.00,0.09,1.50,0.24
+128,Landon Donovan\Landon-Donovan,us USA,MFFW,LA Galaxy,28,23,21,2,1911,83,12,2,4,4,36,4,0,23,0.57,0.66,0.38,0.47,1.08,1.70,0.19
+129,Aurélien Collin\Aurelien-Collin,fr FRAve VEN,DF,Sporting KC,24,23,21,2,1911,83,3,0,0,0,38,10,1,5,0.14,0.14,0.14,0.14,0.24,1.79,0.52
+130,Sam Cronin\Sam-Cronin,us USA,MF,San Jose Earthquakes,24,27,22,5,1908,71,0,1,0,0,29,6,1,2,0.00,0.05,0.00,0.05,0.09,1.37,0.33
+131,Hunter Freeman\Hunter-Freeman,us USA,MFDF,Houston Dynamo,26,23,22,1,1906,83,1,1,0,0,17,3,0,1,0.05,0.09,0.05,0.09,0.05,0.80,0.14
+132,Ned Grabavoy\Ned-Grabavoy,us USA,MF,Real Salt Lake,27,25,21,4,1898,76,0,0,0,0,25,3,0,3,0.00,0.00,0.00,0.00,0.14,1.19,0.14
+133,Erik Friberg\Erik-Friberg,se SWE,MF,Seattle Sounders FC,24,26,23,3,1892,73,1,1,0,0,30,4,0,3,0.05,0.10,0.05,0.10,0.14,1.43,0.19
+134,Mauro Rosales\Mauro-Rosales,ar ARG,MFFW,Seattle Sounders FC,29,26,22,4,1862,72,5,10,1,2,18,2,0,9,0.24,0.73,0.19,0.68,0.44,0.87,0.10
+135,Eric Hassli\Eric-Hassli,fr FRA,FW,Vancouver Whitecaps FC,29,26,21,5,1859,72,10,1,3,4,53,8,3,28,0.48,0.53,0.34,0.39,1.36,2.57,0.53
+136,Andrew Jacobson\Andrew-Jacobson,us USA,MF,FC Dallas,25,27,22,5,1849,69,1,5,0,0,33,4,0,11,0.05,0.29,0.05,0.29,0.54,1.61,0.19
+137,Justin Mapp\Justin-Mapp,us USA,MF,Philadelphia Union,26,29,24,5,1848,64,3,3,0,0,19,1,0,8,0.15,0.29,0.15,0.29,0.39,0.93,0.05
+138,Rajko Lekić\Rajko-Lekic,dk DEN,FW,New England Revolution,29,23,22,1,1848,80,6,1,2,2,37,3,0,17,0.29,0.34,0.19,0.24,0.83,1.80,0.15
+139,Jonathan Leathers\Jonathan-Leathers,us USA,DF,Vancouver Whitecaps FC,25,22,21,1,1840,84,0,0,0,0,15,3,0,1,0.00,0.00,0.00,0.00,0.05,0.73,0.15
+140,Álvaro Fernández\Alvaro-Fernandez,uy URU,MF,Seattle Sounders FC,25,29,23,6,1837,63,9,0,1,2,16,3,0,21,0.44,0.44,0.39,0.39,1.03,0.78,0.15
+141,Simon Elliott\Simon-Elliott,nz NZL,MF,Chivas USA,36,24,21,3,1821,76,0,1,0,0,19,3,0,1,0.00,0.05,0.00,0.05,0.05,0.94,0.15
+142,Josh Gardner\Josh-Gardner,us USA,DFMF,Columbus Crew,28,22,21,1,1807,82,2,2,0,0,13,0,0,7,0.10,0.20,0.10,0.20,0.35,0.65,0.00
+143,Joe Cannon\Joe-Cannon,us USA,GK,Vancouver Whitecaps FC,36,20,20,0,1800,90,0,0,0,0,0,1,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.05
+144,Michael Umaña\Michael-Umana,cr CRC,DF,Chivas USA,28,22,21,1,1795,82,1,1,0,0,21,3,0,3,0.05,0.10,0.05,0.10,0.15,1.05,0.15
+145,Robbie Russell\Robbie-Russell,us USA,DF,Real Salt Lake,31,25,22,3,1782,71,0,2,0,0,17,4,0,1,0.00,0.10,0.00,0.10,0.05,0.86,0.20
+146,Jorge Villafaña\Jorge-Villafana,us USA,FWMF,Chivas USA,21,25,24,1,1779,71,1,1,0,0,21,2,1,12,0.05,0.10,0.05,0.10,0.61,1.06,0.15
+147,Bobby Convey\Bobby-Convey,us USA,FWMF,San Jose Earthquakes,27,21,19,2,1768,84,1,2,0,0,28,5,0,4,0.05,0.15,0.05,0.15,0.20,1.43,0.25
+148,Mike Magee\Mike-Magee,us USA,FWMF,LA Galaxy,26,27,20,7,1767,65,5,0,0,0,30,2,0,11,0.25,0.25,0.25,0.25,0.56,1.53,0.10
+149,Simon Dawkins\Simon-Dawkins,jm JAM,MFFW,San Jose Earthquakes,23,26,19,7,1767,68,6,1,0,0,15,2,0,20,0.31,0.36,0.31,0.36,1.02,0.76,0.10
+150,Tony Beltran\Tony-Beltran,us USA,DF,Real Salt Lake,23,22,19,3,1755,80,0,0,0,0,14,1,1,3,0.00,0.00,0.00,0.00,0.15,0.72,0.10
+151,Joao Plata\Joao-Plata,ec ECU,FWMF,Toronto FC,18,26,21,5,1747,67,3,4,1,1,9,1,0,17,0.15,0.36,0.10,0.31,0.88,0.46,0.05
+152,Teal Bunbury\Teal-Bunbury,us USA,FW,Sporting KC,20,29,20,9,1742,60,9,3,0,0,36,2,1,22,0.46,0.62,0.46,0.62,1.14,1.86,0.15
+153,Seth Sinovic\Seth-Sinovic,us USA,DF,Sporting KC,24,20,20,0,1734,87,0,0,0,0,15,2,0,2,0.00,0.00,0.00,0.00,0.10,0.78,0.10
+154,Diego Cháves\Diego-Chaves,ar ARGuy URU,FW,Chicago Fire,24,29,19,10,1700,59,6,0,1,1,17,4,0,14,0.32,0.32,0.26,0.26,0.74,0.90,0.21
+155,Shea Salinas\Shea-Salinas,us USA,MFDF,Vancouver Whitecaps FC,24,26,18,8,1697,65,1,3,0,0,12,0,1,3,0.05,0.21,0.05,0.21,0.16,0.64,0.05
+156,Yamith Cuesta\Yamith-Cuesta,co COL,DF,Chicago Fire,21,20,18,2,1681,84,0,0,0,0,34,3,1,1,0.00,0.00,0.00,0.00,0.05,1.82,0.21
+157,Rafael Márquez\Rafael-Marquez,mx MEX,DFMF,New York Red Bulls,31,19,19,0,1681,89,0,4,0,1,26,5,0,4,0.00,0.21,0.00,0.21,0.21,1.39,0.27
+158,Will Bruin\Will-Bruin,us USA,FW,Houston Dynamo,21,25,21,4,1680,67,5,1,0,0,18,1,0,23,0.27,0.32,0.27,0.32,1.23,0.96,0.05
+159,Omar Cummings\Omar-Cummings,jm JAM,FW,Colorado Rapids,28,26,18,8,1680,65,3,6,0,0,18,1,0,10,0.16,0.48,0.16,0.48,0.54,0.96,0.05
+160,Davide Chiumiento\Davide-Chiumiento,ch SUI,MF,Vancouver Whitecaps FC,26,26,20,6,1668,64,2,7,0,0,15,2,0,6,0.11,0.49,0.11,0.49,0.32,0.81,0.11
+161,Jay DeMerit\Jay-DeMerit,us USA,DF,Vancouver Whitecaps FC,31,21,20,1,1667,79,0,0,0,0,20,4,0,1,0.00,0.00,0.00,0.00,0.05,1.08,0.22
+162,Brian Mullan\Brian-Mullan,us USA,MF,Colorado Rapids,32,22,19,3,1661,76,1,1,0,0,35,4,1,4,0.05,0.11,0.05,0.11,0.22,1.90,0.27
+163,Steven Beitashour\Steven-Beitashour,ir IRN,DFMF,San Jose Earthquakes,23,19,19,0,1654,87,0,6,0,0,16,2,1,2,0.00,0.33,0.00,0.33,0.11,0.87,0.16
+164,Darlington Nagbe\Darlington-Nagbe,us USA,FWMF,Portland Timbers,20,28,21,7,1642,59,2,3,0,0,8,0,0,10,0.11,0.27,0.11,0.27,0.55,0.44,0.00
+165,Chris Schuler\Chris-Schuler,us USA,DF,Real Salt Lake,23,20,16,4,1639,82,2,0,0,0,16,2,0,2,0.11,0.11,0.11,0.11,0.11,0.88,0.11
+166,Josh Saunders\Josh-Saunders,pr PUR,GK,LA Galaxy,29,19,18,1,1639,86,0,0,0,0,0,1,1,0,0.00,0.00,0.00,0.00,0.00,0.00,0.11
+167,Michael Boxall\Michael-Boxall,nz NZL,DF,Vancouver Whitecaps FC,22,19,18,1,1616,85,0,0,0,0,25,3,0,2,0.00,0.00,0.00,0.00,0.11,1.39,0.17
+168,Gabriel Farfan\Gabriel-Farfan,us USA,DFMF,Philadelphia Union,22,22,18,4,1613,73,1,2,0,0,27,1,0,1,0.06,0.17,0.06,0.17,0.06,1.51,0.06
+169,Rich Balchan\Rich-Balchan,us USA,DF,Columbus Crew,22,19,18,1,1608,85,1,0,0,0,12,1,0,1,0.06,0.06,0.06,0.06,0.06,0.67,0.06
+170,Danleigh Borman\Danleigh-Borman,za RSA,DFMF,Toronto FC,26,22,18,4,1607,73,0,2,0,0,18,4,0,0,0.00,0.11,0.00,0.11,0.00,1.01,0.22
+171,Brad Ring\Brad-Ring,us USA,MF,San Jose Earthquakes,23,21,17,4,1601,76,0,0,0,0,33,7,0,2,0.00,0.00,0.00,0.00,0.11,1.86,0.39
+172,Cam Weaver\Cam-Weaver,us USA,FW,Houston Dynamo,27,27,16,11,1599,59,4,0,0,0,47,3,0,11,0.23,0.23,0.23,0.23,0.62,2.65,0.17
+173,Brandon McDonald\Brandon-McDonald,gu GUM,DF,D.C. United,25,18,18,0,1598,89,1,0,0,0,22,4,0,2,0.06,0.06,0.06,0.06,0.11,1.24,0.23
+174,Sanna Nyassi\Sanna-Nyassi,gm GAM,MF,Colorado Rapids,22,26,17,9,1589,61,5,4,0,0,24,4,0,24,0.28,0.51,0.28,0.51,1.36,1.36,0.23
+175,Chad Barrett\Chad-Barrett,us USA,FW,LA Galaxy,25,27,20,7,1577,58,7,2,0,0,13,0,0,19,0.40,0.51,0.40,0.51,1.08,0.74,0.00
+176,Nick Soolsma\Nick-Soolsma,nl NED,MFFW,Toronto FC,23,23,18,5,1577,69,3,4,1,1,12,1,0,14,0.17,0.40,0.11,0.34,0.80,0.68,0.06
+177,Chris Birchall\Chris-Birchall,tt TRI,MF,LA Galaxy,26,23,17,6,1554,68,1,0,0,0,27,3,1,4,0.06,0.06,0.06,0.06,0.23,1.56,0.23
+178,Luke Rodgers\Luke-Rodgers,eng ENG,FW,New York Red Bulls,29,23,20,3,1553,68,9,3,1,1,27,6,0,20,0.52,0.70,0.46,0.64,1.16,1.56,0.35
+179,Charlie Davies\Charlie-Davies,us USA,FW,D.C. United,24,26,18,8,1550,60,11,1,4,5,23,3,0,19,0.64,0.70,0.41,0.46,1.10,1.34,0.17
+180,Danny Mwanga\Danny-Mwanga,cd COD,FW,Philadelphia Union,19,28,13,15,1543,55,5,4,0,0,28,4,0,20,0.29,0.52,0.29,0.52,1.17,1.63,0.23
+181,Davy Arnaud\Davy-Arnaud,us USA,FWMF,Sporting KC,30,22,16,6,1536,70,0,2,0,0,18,2,0,4,0.00,0.12,0.00,0.12,0.23,1.05,0.12
+182,Mehdi Ballouchy\Mehdi-Ballouchy,ma MAR,MF,New York Red Bulls,27,29,17,12,1525,53,2,1,0,0,23,4,0,7,0.12,0.18,0.12,0.18,0.41,1.36,0.24
+183,Caleb Folan\Caleb-Folan,ie IRL,FW,Colorado Rapids,28,26,16,10,1525,59,6,2,2,2,27,5,1,16,0.35,0.47,0.24,0.35,0.94,1.59,0.35
+184,Sal Zizzo\Sal-Zizzo,us USA,MF,Portland Timbers,23,30,14,16,1524,51,0,2,0,0,13,1,0,10,0.00,0.12,0.00,0.12,0.59,0.77,0.06
+185,Jamie Smith\Jamie-Smith,sco SCO,MF,Colorado Rapids,30,20,18,2,1516,76,3,4,0,0,12,0,0,16,0.18,0.42,0.18,0.42,0.95,0.71,0.00
+186,Juan Pablo Ángel\Juan-Pablo-Angel,co COL,FW,LA Galaxy,35,22,17,5,1515,69,3,1,0,0,20,0,0,16,0.18,0.24,0.18,0.24,0.95,1.19,0.00
+187,Jeb Brovsky\Jeb-Brovsky,us USA,MFDF,Vancouver Whitecaps FC,22,24,16,8,1514,63,0,0,0,0,24,4,0,2,0.00,0.00,0.00,0.00,0.12,1.43,0.24
+188,Brad Evans\Brad-Evans,us USA,FWMF,Seattle Sounders FC,25,20,17,3,1508,75,5,3,3,3,13,2,0,9,0.30,0.48,0.12,0.30,0.54,0.78,0.12
+189,Carlos Mendes\Carlos-Mendes,us USA,DF,New York Red Bulls,30,18,16,2,1506,84,0,0,0,0,21,2,0,1,0.00,0.00,0.00,0.00,0.06,1.25,0.12
+190,Michael Harrington\Michael-Harrington,us USA,MFDF,Sporting KC,25,22,16,6,1496,68,0,0,0,0,14,5,0,0,0.00,0.00,0.00,0.00,0.00,0.84,0.30
+191,Daniel Paladini\Daniel-Paladini,us USA,MF,Chicago Fire,26,23,16,7,1492,65,0,1,0,0,18,7,0,8,0.00,0.06,0.00,0.06,0.48,1.09,0.42
+192,Dwayne De Rosario\Dwayne-De-Rosario,ca CAN,FWMF,D.C. United,32,18,17,1,1483,82,13,5,2,3,33,1,0,31,0.79,1.09,0.67,0.97,1.88,2.00,0.06
+193,Marcos Mondaini\Marcos-Mondaini,ar ARGec ECU,MFFW,Chivas USA,25,24,20,4,1483,62,3,1,0,0,17,1,1,13,0.18,0.24,0.18,0.24,0.79,1.03,0.12
+194,Colin Clark\Colin-Clark,us USA,MF,Houston Dynamo,26,29,17,12,1482,51,4,3,0,0,18,1,1,10,0.24,0.43,0.24,0.43,0.61,1.09,0.12
+195,Ryan Cochrane\Ryan-Cochrane,us USA,DF,New England Revolution,27,22,19,3,1473,67,1,0,0,0,29,5,1,1,0.06,0.06,0.06,0.06,0.06,1.77,0.37
+196,Michael Farfan\Michael-Farfan,us USA,MF,Philadelphia Union,22,21,13,8,1463,70,2,3,0,0,14,1,0,6,0.12,0.31,0.12,0.31,0.37,0.86,0.06
+197,Lovel Palmer\Lovel-Palmer,jm JAM,DFMF,Houston Dynamo,26,19,16,3,1453,77,1,0,0,0,19,4,1,7,0.06,0.06,0.06,0.06,0.43,1.18,0.31
+198,Pat Phelan\Pat-Phelan,us USA,MF,New England Revolution,26,20,15,5,1427,71,0,2,0,0,24,3,1,2,0.00,0.13,0.00,0.13,0.13,1.51,0.25
+199,Stephen McCarthy\Stephen-McCarthy,us USA,DF,New England Revolution,22,21,18,3,1423,68,1,0,0,0,16,4,0,4,0.06,0.06,0.06,0.06,0.25,1.01,0.25
+200,Jeremy Hall\Jeremy-Hall,pr PUR,DFMF,Portland Timbers,22,17,17,0,1419,84,0,2,0,0,19,6,1,2,0.00,0.13,0.00,0.13,0.13,1.21,0.44
+201,Javier Martina\Javier-Martina,cw CUW,FW,Toronto FC,23,23,15,8,1393,61,2,0,0,0,13,3,0,9,0.13,0.13,0.13,0.13,0.58,0.84,0.19
+202,Dilly Duka\Dilly-Duka,us USA,MF,Columbus Crew,21,22,16,6,1391,63,2,2,0,0,22,2,0,8,0.13,0.26,0.13,0.26,0.52,1.42,0.13
+203,Juan Agudelo\Juan-Agudelo,us USA,FW,New York Red Bulls,18,27,12,15,1375,51,6,2,0,0,25,0,0,17,0.39,0.52,0.39,0.52,1.11,1.64,0.00
+204,Fabián Castillo\Fabian-Castillo,co COL,FWMF,FC Dallas,18,21,16,5,1353,64,2,3,0,0,11,0,0,8,0.13,0.33,0.13,0.33,0.53,0.73,0.00
+205,Zak Boggs\Zak-Boggs,us USA,FWMF,New England Revolution,24,20,16,4,1345,67,1,1,0,0,9,2,0,7,0.07,0.13,0.07,0.13,0.47,0.60,0.13
+206,Michael Lahoud\Michael-Lahoud,sl SLE,MF,Chivas USA,24,23,17,6,1342,58,1,3,0,0,19,4,0,3,0.07,0.27,0.07,0.27,0.20,1.27,0.27
+207,Lovel Palmer\Lovel-Palmer,jm JAM,DFMF,Portland Timbers,26,15,15,0,1331,89,0,1,0,0,7,2,0,2,0.00,0.07,0.00,0.07,0.14,0.47,0.14
+208,Dejan Jakovic\Dejan-Jakovic,ca CAN,DF,D.C. United,25,15,15,0,1323,88,0,0,0,0,18,3,1,1,0.00,0.00,0.00,0.00,0.07,1.22,0.27
+209,Julian de Guzman\Julian-de-Guzman,ca CAN,MF,Toronto FC,29,19,16,3,1320,70,2,2,0,0,37,5,0,5,0.14,0.27,0.14,0.27,0.34,2.52,0.34
+210,Tom Heinemann\Tom-Heinemann,us USA,FW,Columbus Crew,23,28,12,16,1320,47,3,1,0,0,26,4,0,15,0.20,0.27,0.20,0.27,1.02,1.77,0.27
+211,Ricardo Villar\Ricardo-Villar,br BRA,MF,FC Dallas,31,20,14,6,1317,66,0,1,0,0,24,2,0,6,0.00,0.07,0.00,0.07,0.41,1.64,0.14
+212,Mikael Yourassowsky\Mikael-Yourassowsky,be BEL,DF,Toronto FC,27,21,13,8,1303,62,0,1,0,0,26,4,1,7,0.00,0.07,0.00,0.07,0.48,1.80,0.35
+213,Luis Gil\Luis-Gil,us USA,MF,Real Salt Lake,17,25,14,11,1293,52,2,0,0,0,16,0,0,7,0.14,0.14,0.14,0.14,0.49,1.11,0.00
+214,Donovan Ricketts\Donovan-Ricketts,jm JAM,GK,LA Galaxy,33,15,15,0,1283,86,0,0,0,0,0,1,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.07
+215,Jay Nolly\Jay-Nolly,us USA,GK,Vancouver Whitecaps FC,29,14,14,0,1260,90,0,0,0,0,0,1,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.07
+216,Jordan Harvey\Jordan-Harvey,us USA,DF,Vancouver Whitecaps FC,27,14,14,0,1254,90,0,3,0,0,11,2,0,2,0.00,0.22,0.00,0.22,0.14,0.79,0.14
+217,Brian Ching\Brian-Ching,us USA,FW,Houston Dynamo,32,20,15,5,1252,63,5,2,0,0,12,0,1,14,0.36,0.50,0.36,0.50,1.01,0.86,0.07
+218,Franco Coria\Franco-Coria,ar ARG,DF,New England Revolution,22,18,14,4,1248,69,0,0,0,0,28,5,0,0,0.00,0.00,0.00,0.00,0.00,2.02,0.36
+219,Maicon Santos\Maicon-Santos,br BRA,FW,Toronto FC,26,19,15,4,1245,66,6,1,0,0,20,0,0,14,0.43,0.51,0.43,0.51,1.01,1.45,0.00
+220,Kevin Burns\Kevin-Burns,us USA,MF,Columbus Crew,25,19,15,4,1244,66,0,0,0,0,12,4,0,2,0.00,0.00,0.00,0.00,0.14,0.87,0.29
+221,Patrick Ianni\Patrick-Ianni,us USA,DF,Seattle Sounders FC,25,16,12,4,1236,77,1,0,0,0,14,2,0,2,0.07,0.07,0.07,0.07,0.15,1.02,0.15
+222,Jordan Harvey\Jordan-Harvey,us USA,DF,Philadelphia Union,27,16,16,0,1234,77,0,1,0,0,13,4,1,0,0.00,0.07,0.00,0.07,0.00,0.95,0.36
+223,Stephen Keel\Stephen-Keel,us USA,DF,New York Red Bulls,27,16,13,3,1227,77,0,1,0,0,14,3,0,0,0.00,0.07,0.00,0.07,0.00,1.03,0.22
+224,Veljko Paunović\Veljko-Paunovic,es ESPrs SRB,FWMF,Philadelphia Union,33,17,16,1,1226,72,3,2,0,0,25,1,0,11,0.22,0.37,0.22,0.37,0.81,1.84,0.07
+225,Eric Alexander\Eric-Alexander,us USA,MF,FC Dallas,22,22,16,6,1208,55,0,0,0,0,11,0,0,2,0.00,0.00,0.00,0.00,0.15,0.82,0.00
+226,Kyle Nakazawa\Kyle-Nakazawa,us USA,MF,Philadelphia Union,22,22,14,8,1207,55,1,2,0,0,24,1,0,4,0.07,0.22,0.07,0.22,0.30,1.79,0.07
+227,Zack Schilawski\Zack-Schilawski,us USA,FW,New England Revolution,23,25,13,12,1201,48,1,1,0,0,5,1,0,9,0.07,0.15,0.07,0.15,0.67,0.37,0.07
+228,David Horst\David-Horst,us USA,DF,Portland Timbers,25,16,11,5,1174,73,0,0,0,0,11,0,0,4,0.00,0.00,0.00,0.00,0.31,0.84,0.00
+229,Dax McCarty\Dax-McCarty,us USA,MF,New York Red Bulls,23,16,14,2,1173,73,0,2,0,0,9,1,0,0,0.00,0.15,0.00,0.15,0.00,0.69,0.08
+230,Je-Vaughn Watson\Je-Vaughn-Watson,jm JAM,MFDF,Houston Dynamo,27,22,11,11,1169,53,1,2,0,0,28,4,1,4,0.08,0.23,0.08,0.23,0.31,2.16,0.38
+231,Steven Lenhart\Steven-Lenhart,us USA,FW,San Jose Earthquakes,24,14,13,1,1163,83,5,2,0,0,30,5,0,14,0.39,0.54,0.39,0.54,1.08,2.32,0.39
+232,Miguel Pedro López\Miguel-Pedro-Lopez,ar ARG,MF,LA Galaxy,22,24,14,10,1162,48,1,3,0,0,19,2,0,8,0.08,0.31,0.08,0.31,0.62,1.47,0.15
+233,Mike Chabala\Mike-Chabala,us USA,DF,Portland Timbers,26,14,13,1,1157,83,1,2,0,0,5,3,0,3,0.08,0.23,0.08,0.23,0.23,0.39,0.23
+234,Abdoulie Mansally\Abdoulie-Mansally,gm GAM,FWMFDF,New England Revolution,22,25,9,16,1153,46,1,2,0,0,28,4,1,4,0.08,0.23,0.08,0.23,0.31,2.19,0.39
+235,Emilio Rentería\Emilio-Renteria,ve VEN,FW,Columbus Crew,26,18,14,4,1150,64,8,2,2,2,36,0,0,17,0.63,0.78,0.47,0.63,1.33,2.82,0.00
+236,James Marcelin\James-Marcelin,ht HAI,MF,Portland Timbers,24,20,12,8,1149,58,0,0,0,0,20,4,0,0,0.00,0.00,0.00,0.00,0.00,1.57,0.31
+237,Danny Cruz\Danny-Cruz,us USA,MFFW,Houston Dynamo,21,20,13,7,1147,57,2,2,0,0,19,5,0,8,0.16,0.31,0.16,0.31,0.63,1.49,0.39
+238,Andy Iro\Andy-Iro,eng ENG,DF,Toronto FC,26,13,13,0,1143,88,0,0,0,0,20,3,0,0,0.00,0.00,0.00,0.00,0.00,1.57,0.24
+239,Carlos Ruíz\Carlos-Ruiz,gt GUA,FW,Philadelphia Union,31,14,13,1,1138,81,6,0,0,0,15,2,0,14,0.47,0.47,0.47,0.47,1.11,1.19,0.16
+240,Santino Quaranta\Santino-Quaranta,us USA,FWMF,D.C. United,26,21,10,11,1129,54,1,4,0,0,22,2,1,5,0.08,0.40,0.08,0.40,0.40,1.75,0.24
+241,Marc Burch\Marc-Burch,us USA,DF,D.C. United,26,17,11,6,1122,66,1,1,0,0,10,4,0,1,0.08,0.16,0.08,0.16,0.08,0.80,0.32
+242,Torsten Frings\Torsten-Frings,de GER,MF,Toronto FC,34,13,13,0,1122,86,0,1,0,0,8,0,0,4,0.00,0.08,0.00,0.08,0.32,0.64,0.00
+243,Michael Stephens\Michael-Stephens,us USA,MF,LA Galaxy,21,25,12,13,1118,45,0,1,0,0,13,3,0,2,0.00,0.08,0.00,0.08,0.16,1.05,0.24
+244,Chris Leitch\Chris-Leitch,us USA,DF,San Jose Earthquakes,31,14,12,2,1116,80,0,1,0,0,8,3,0,1,0.00,0.08,0.00,0.08,0.08,0.65,0.24
+245,Dwayne De Rosario\Dwayne-De-Rosario,ca CAN,FWMF,New York Red Bulls,32,13,12,1,1112,86,2,4,2,2,21,2,0,10,0.16,0.49,0.00,0.32,0.81,1.70,0.16
+246,Collen Warner\Collen-Warner,us USA,MF,Real Salt Lake,22,24,15,9,1106,46,0,4,0,0,28,3,1,8,0.00,0.33,0.00,0.33,0.65,2.28,0.33
+247,Adam Moffat\Adam-Moffat,sco SCO,MF,Houston Dynamo,24,13,12,1,1104,85,2,1,0,0,12,3,1,8,0.16,0.24,0.16,0.24,0.65,0.98,0.33
+248,Ryan Johnson\Ryan-Johnson,jm JAM,FWMF,San Jose Earthquakes,26,14,12,2,1086,78,0,2,0,0,17,3,0,5,0.00,0.17,0.00,0.17,0.41,1.41,0.25
+249,Stephen King\Stephen-King,us USA,MF,D.C. United,24,20,11,9,1070,54,1,0,0,0,8,0,0,5,0.08,0.08,0.08,0.08,0.42,0.67,0.00
+250,Roger Levesque\Roger-Levesque,us USA,FWMF,Seattle Sounders FC,30,19,9,10,1070,56,3,1,0,0,16,3,0,6,0.25,0.34,0.25,0.34,0.50,1.35,0.25
+251,Leonardo González\Leonardo-Gonzalez,cr CRC,DF,Seattle Sounders FC,30,14,12,2,1069,76,0,1,0,0,22,5,0,1,0.00,0.08,0.00,0.08,0.08,1.85,0.42
+252,Dan Gargan\Dan-Gargan,us USA,DF,Toronto FC,28,16,12,4,1066,67,0,0,0,0,18,3,0,0,0.00,0.00,0.00,0.00,0.00,1.52,0.25
+253,Nizar Khalfan\Nizar-Khalfan,tz TAN,MF,Vancouver Whitecaps FC,22,21,9,12,1061,51,1,3,0,0,9,1,0,9,0.08,0.34,0.08,0.34,0.76,0.76,0.08
+254,Pável Pardo\Pavel-Pardo,mx MEX,MF,Chicago Fire,34,13,12,1,1048,81,1,4,0,0,9,0,1,3,0.09,0.43,0.09,0.43,0.26,0.77,0.09
+255,Rafael Baca\Rafael-Baca,mx MEX,MF,San Jose Earthquakes,21,15,11,4,1047,70,1,3,0,0,12,2,0,4,0.09,0.34,0.09,0.34,0.34,1.03,0.17
+256,Peter Vagenas\Peter-Vagenas,us USA,MF,Vancouver Whitecaps FC,32,16,13,3,1043,65,0,0,0,0,11,0,0,0,0.00,0.00,0.00,0.00,0.00,0.95,0.00
+257,Mike Fucito\Mike-Fucito,us USA,MFFW,Seattle Sounders FC,24,19,13,6,1038,55,2,2,0,0,21,2,0,7,0.17,0.35,0.17,0.35,0.61,1.82,0.17
+258,Josip Mikulić\Josip-Mikulic,hr CRO,DF,Chicago Fire,24,14,12,2,1037,74,0,0,0,0,21,5,0,0,0.00,0.00,0.00,0.00,0.00,1.82,0.43
+259,Bouna Coundoul\Bouna-Coundoul,sn SEN,GK,New York Red Bulls,28,12,11,1,1035,86,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+260,Tony Tchani\Tony-Tchani,cm CMR,MF,Toronto FC,21,13,13,0,1031,79,1,0,0,0,21,3,1,5,0.09,0.09,0.09,0.09,0.44,1.83,0.35
+261,Lamar Neagle\Lamar-Neagle,us USA,FWMF,Seattle Sounders FC,23,23,9,14,1020,44,5,1,0,0,10,1,0,12,0.44,0.53,0.44,0.53,1.06,0.88,0.09
+262,Jacob Peterson\Jacob-Peterson,us USA,FWMF,Toronto FC,25,13,13,0,1020,79,0,1,0,0,9,1,0,6,0.00,0.09,0.00,0.09,0.53,0.79,0.09
+263,Chris Korb\Chris-Korb,us USA,DF,D.C. United,23,12,12,0,1017,85,0,1,0,0,7,0,0,0,0.00,0.09,0.00,0.09,0.00,0.62,0.00
+264,Dejan Rusmir\Dejan-Rusmir,rs SRB,MF,Columbus Crew,31,18,13,5,1013,56,0,1,0,0,35,4,0,1,0.00,0.09,0.00,0.09,0.09,3.11,0.36
+265,Ryan Johnson\Ryan-Johnson,jm JAM,FWMF,Toronto FC,26,12,12,0,988,82,3,2,0,0,12,0,0,10,0.27,0.46,0.27,0.46,0.91,1.09,0.00
+266,Adrian Cann\Adrian-Cann,ca CAN,DF,Toronto FC,30,12,12,0,986,82,0,0,0,0,11,0,0,0,0.00,0.00,0.00,0.00,0.00,1.00,0.00
+267,Milton Caraglio\Milton-Caraglio,ar ARG,FW,New England Revolution,22,12,12,0,986,82,3,1,0,0,22,5,0,15,0.27,0.37,0.27,0.37,1.37,2.01,0.46
+268,Stefani Miglioranzi\Stefani-Miglioranzi,br BRA,MF,Philadelphia Union,33,17,11,6,984,58,0,0,0,0,15,1,0,0,0.00,0.00,0.00,0.00,0.00,1.37,0.09
+269,Joey Gjertsen\Joey-Gjertsen,us USA,FWMF,San Jose Earthquakes,28,18,13,5,973,54,1,2,0,0,7,0,0,6,0.09,0.28,0.09,0.28,0.55,0.65,0.00
+270,Sainey Nyassi\Sainey-Nyassi,gm GAM,MF,New England Revolution,22,21,8,13,965,46,1,0,0,0,15,0,0,10,0.09,0.09,0.09,0.09,0.93,1.40,0.00
+271,Blair Gavin\Blair-Gavin,us USA,MF,Chivas USA,22,18,11,7,957,53,0,1,0,0,6,0,0,3,0.00,0.09,0.00,0.09,0.28,0.56,0.00
+272,Nathan Sturgis\Nathan-Sturgis,us USA,MFDF,Toronto FC,23,14,11,3,952,68,0,0,0,0,3,1,0,0,0.00,0.00,0.00,0.00,0.00,0.28,0.09
+273,Frank Rost\Frank-Rost,de GER,GK,New York Red Bulls,37,11,11,0,945,86,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+274,Dax McCarty\Dax-McCarty,us USA,MF,D.C. United,23,13,11,2,944,73,0,1,0,0,12,1,0,2,0.00,0.10,0.00,0.10,0.19,1.14,0.10
+275,Róger Torres\Roger-Torres,co COL,MF,Philadelphia Union,19,25,9,16,940,38,3,1,0,0,13,1,0,6,0.29,0.38,0.29,0.38,0.57,1.24,0.10
+276,Jermaine Taylor\Jermaine-Taylor,jm JAM,DF,Houston Dynamo,26,13,10,3,927,71,0,0,0,0,9,2,0,0,0.00,0.00,0.00,0.00,0.00,0.87,0.19
+277,Terry Dunfield\Terry-Dunfield,ca CAN,MF,Vancouver Whitecaps FC,28,12,11,1,924,77,1,2,0,0,11,4,0,2,0.10,0.29,0.10,0.29,0.19,1.07,0.39
+278,Ashtone Morgan\Ashtone-Morgan,ca CAN,DF,Toronto FC,19,14,9,5,907,65,0,0,0,0,12,1,0,0,0.00,0.00,0.00,0.00,0.00,1.19,0.10
+279,Andrew Boyens\Andrew-Boyens,nz NZL,DF,Chivas USA,27,12,10,2,907,76,1,0,0,0,12,1,1,4,0.10,0.10,0.10,0.10,0.40,1.19,0.20
+280,Greg Sutton\Greg-Sutton,ca CAN,GK,New York Red Bulls,33,10,10,0,900,90,0,0,0,0,0,1,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.10
+281,Keon Daniel\Keon-Daniel,tt TRI,MF,Philadelphia Union,24,18,9,9,891,50,1,2,0,0,6,1,0,2,0.10,0.30,0.10,0.30,0.20,0.61,0.10
+282,Zach Scott\Zach-Scott,us USA,MFDF,Seattle Sounders FC,30,12,9,3,866,72,0,0,0,0,11,3,0,0,0.00,0.00,0.00,0.00,0.00,1.14,0.31
+283,Nate Jaqua\Nate-Jaqua,us USA,FW,Seattle Sounders FC,29,23,7,16,854,37,0,1,0,0,29,2,0,2,0.00,0.11,0.00,0.11,0.21,3.06,0.21
+284,Paolo Cardozo\Paolo-Cardozo,uy URU,FWMF,LA Galaxy,21,17,8,9,827,49,0,0,0,0,18,1,0,9,0.00,0.00,0.00,0.00,0.98,1.96,0.11
+285,Amobi Okugo\Amobi-Okugo,us USA,DFMF,Philadelphia Union,19,15,10,5,815,54,0,0,0,0,18,2,0,4,0.00,0.00,0.00,0.00,0.44,1.99,0.22
+286,Justin Morrow\Justin-Morrow,us USA,DF,San Jose Earthquakes,23,9,9,0,810,90,0,0,0,0,8,1,0,0,0.00,0.00,0.00,0.00,0.00,0.89,0.11
+287,Gastón Puerari\Gaston-Puerari,uy URU,FW,Chicago Fire,25,14,10,4,805,58,1,0,0,0,18,3,0,8,0.11,0.11,0.11,0.11,0.89,2.01,0.34
+288,Conor Casey\Conor-Casey,us USA,FW,Colorado Rapids,29,14,11,3,804,57,6,1,1,1,25,4,1,10,0.67,0.78,0.56,0.67,1.12,2.80,0.56
+289,Wes Knight\Wes-Knight,us USA,MFDF,Vancouver Whitecaps FC,24,12,10,2,802,67,0,1,0,0,8,0,0,1,0.00,0.11,0.00,0.11,0.11,0.90,0.00
+290,Baggio Husidić\Baggio-Husidic,us USA,MF,Chicago Fire,23,18,9,9,797,44,0,2,0,0,7,3,0,3,0.00,0.23,0.00,0.23,0.34,0.79,0.34
+291,Gregg Berhalter\Gregg-Berhalter,us USA,DF,LA Galaxy,37,10,8,2,795,80,0,1,0,0,13,3,0,1,0.00,0.11,0.00,0.11,0.11,1.47,0.34
+292,Juan Pablo Ángel\Juan-Pablo-Angel,co COL,FW,Chivas USA,35,9,9,0,794,88,7,0,0,0,9,2,0,16,0.79,0.79,0.79,0.79,1.81,1.02,0.23
+293,Blake Brettschneider\Blake-Brettschneider,us USA,FW,D.C. United,21,15,9,6,792,53,1,2,0,0,13,1,0,5,0.11,0.34,0.11,0.34,0.57,1.48,0.11
+294,Javier Morales\Javier-Morales,ar ARG,MF,Real Salt Lake,31,10,9,1,783,78,2,3,1,1,10,3,0,5,0.23,0.57,0.11,0.46,0.57,1.15,0.34
+295,Dan Gargan\Dan-Gargan,us USA,DF,Chicago Fire,28,9,9,0,783,87,1,0,0,0,12,4,0,1,0.11,0.11,0.11,0.11,0.11,1.38,0.46
+296,Miloš Stojčev\Milos-Stojcev,me MNE,MF,Sporting KC,24,12,11,1,783,65,0,1,0,0,9,1,1,4,0.00,0.11,0.00,0.11,0.46,1.03,0.23
+297,Blake Wagner\Blake-Wagner,us USA,MFDF,Vancouver Whitecaps FC,23,9,9,0,777,86,0,0,0,0,11,0,0,2,0.00,0.00,0.00,0.00,0.23,1.27,0.00
+298,Sebastián Grazzini\Sebastian-Grazzini,ar ARGve VEN,MF,Chicago Fire,30,11,11,0,774,70,5,4,1,1,15,1,0,9,0.58,1.05,0.47,0.93,1.05,1.74,0.12
+299,Eric Avila\Eric-Avila,us USA,MF,Toronto FC,23,9,8,1,773,86,1,1,0,0,6,1,0,4,0.12,0.23,0.12,0.23,0.47,0.70,0.12
+300,Alen Stevanović\Alen-Stevanovic,rs SRB,FWMF,Toronto FC,20,12,9,3,768,64,0,0,0,0,6,1,0,3,0.00,0.00,0.00,0.00,0.35,0.70,0.12
+301,Birahim Diop\Birahim-Diop,sn SEN,FWMF,Sporting KC,31,18,8,10,767,43,0,1,0,0,19,3,0,1,0.00,0.12,0.00,0.12,0.12,2.23,0.35
+302,Greg Janicki\Greg-Janicki,us USA,DF,Vancouver Whitecaps FC,26,10,8,2,757,76,0,0,0,0,13,1,0,0,0.00,0.00,0.00,0.00,0.00,1.55,0.12
+303,Danny Koevermans\Danny-Koevermans,nl NED,FW,Toronto FC,32,10,9,1,753,75,8,2,0,0,7,0,0,17,0.96,1.20,0.96,1.20,2.03,0.84,0.00
+304,John Thorrington\John-Thorrington,us USA,MF,Vancouver Whitecaps FC,31,11,9,2,737,67,0,0,0,0,14,1,0,0,0.00,0.00,0.00,0.00,0.00,1.71,0.12
+305,Arturo Alvarez\Arturo-Alvarez,sv SLV,FWMF,Real Salt Lake,25,16,8,8,727,45,0,1,0,0,12,0,0,1,0.00,0.12,0.00,0.12,0.12,1.49,0.00
+306,Maicon Santos\Maicon-Santos,br BRA,FW,FC Dallas,26,11,9,2,725,66,2,1,0,0,11,1,0,11,0.25,0.37,0.25,0.37,1.37,1.37,0.12
+307,Steve Purdy\Steve-Purdy,sv SLV,DF,Portland Timbers,25,8,8,0,720,90,0,0,0,0,12,2,0,1,0.00,0.00,0.00,0.00,0.12,1.50,0.25
+308,Anthony Wallace\Anthony-Wallace,us USA,MFDF,Colorado Rapids,22,10,8,2,719,72,0,1,0,0,7,3,0,0,0.00,0.13,0.00,0.13,0.00,0.88,0.38
+309,Jean Alexandre\Jean-Alexandre,ht HAI,FWMF,Real Salt Lake,24,19,9,10,704,37,1,2,0,0,19,3,0,4,0.13,0.38,0.13,0.38,0.51,2.43,0.38
+310,Brandon McDonald\Brandon-McDonald,gu GUM,DF,San Jose Earthquakes,25,11,8,3,697,63,1,0,0,0,7,2,1,1,0.13,0.13,0.13,0.13,0.13,0.90,0.39
+311,Servando Carrasco\Servando-Carrasco,us USA,MF,Seattle Sounders FC,22,12,7,5,692,58,0,0,0,0,11,4,0,0,0.00,0.00,0.00,0.00,0.00,1.43,0.52
+312,Matt Stinson\Matt-Stinson,ca CAN,MF,Toronto FC,18,13,5,8,682,53,0,1,0,0,11,1,0,2,0.00,0.13,0.00,0.13,0.26,1.45,0.13
+313,Didier Domi\Didier-Domi,fr FRA,DF,New England Revolution,32,9,8,1,679,75,0,0,0,0,8,1,0,0,0.00,0.00,0.00,0.00,0.00,1.06,0.13
+314,Zac MacMath\Zac-MacMath,us USA,GK,Philadelphia Union,19,8,7,1,675,84,0,0,0,0,0,1,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.13
+315,Dicoy Williams\Dicoy-Williams,jm JAM,DF,Toronto FC,24,8,7,1,656,82,0,0,0,0,10,1,0,1,0.00,0.00,0.00,0.00,0.14,1.37,0.14
+316,Miloš Kocić\Milos-Kocic,rs SRB,GK,Toronto FC,25,8,7,1,655,82,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+317,Orr Barouch\Orr-Barouch,il ISR,FW,Chicago Fire,19,28,2,26,646,23,2,2,0,0,19,2,0,9,0.28,0.56,0.28,0.56,1.25,2.65,0.28
+318,Bernardo Añor\Bernardo-Anor,ve VEN,MF,Columbus Crew,22,13,6,7,643,50,1,1,0,0,7,2,0,5,0.14,0.28,0.14,0.28,0.70,0.98,0.28
+319,Joseph Ngwenya\Joseph-Ngwenya,zw ZIM,FW,D.C. United,29,16,7,9,633,40,0,0,0,0,20,1,0,7,0.00,0.00,0.00,0.00,1.00,2.84,0.14
+320,Alan Gordon\Alan-Gordon,us USA,FW,Toronto FC,29,8,7,1,633,79,4,0,0,0,23,3,0,8,0.57,0.57,0.57,0.57,1.14,3.27,0.43
+321,Bobby Shuttleworth\Bobby-Shuttleworth,us USA,GK,New England Revolution,23,7,7,0,630,90,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+322,Leonardo\Leonardo,br BRA,DF,LA Galaxy,22,7,7,0,630,90,1,0,0,0,5,1,0,1,0.14,0.14,0.14,0.14,0.14,0.71,0.14
+323,Cristian Nazarit\Cristian-Nazarit,co COL,FW,Chicago Fire,20,12,6,6,626,52,2,0,0,0,25,3,0,5,0.29,0.29,0.29,0.29,0.72,3.59,0.43
+324,Mouloud Akloul\Mouloud-Akloul,fr FRA,DF,Vancouver Whitecaps FC,27,8,7,1,625,78,0,0,0,0,7,1,0,1,0.00,0.00,0.00,0.00,0.14,1.01,0.14
+325,Austin da Luz\Austin-da-Luz,us USA,MF,D.C. United,23,14,5,9,616,44,0,1,0,0,4,3,0,4,0.00,0.15,0.00,0.15,0.58,0.58,0.44
+326,Ryan Guy\Ryan-Guy,gu GUM,FWMF,New England Revolution,25,11,6,5,615,56,2,0,0,0,5,1,0,6,0.29,0.29,0.29,0.29,0.88,0.73,0.15
+327,Jeff Cunningham\Jeff-Cunningham,us USA,FW,Columbus Crew,34,21,4,17,606,29,2,0,1,1,3,0,0,3,0.30,0.30,0.15,0.15,0.45,0.45,0.00
+328,Fred Carreiro\Fred-Carreiro,br BRA,FWMF,D.C. United,31,17,5,12,606,36,0,1,0,0,14,3,0,1,0.00,0.15,0.00,0.15,0.15,2.08,0.45
+329,Freddy Adu\Freddy-Adu,us USA,MFFW,Philadelphia Union,21,11,6,5,606,55,2,1,0,0,8,2,0,3,0.30,0.45,0.30,0.45,0.45,1.19,0.30
+330,Bryan Jordan\Bryan-Jordan,us USA,MFDFFW,LA Galaxy,25,13,5,8,588,45,0,0,0,0,6,1,0,0,0.00,0.00,0.00,0.00,0.00,0.92,0.15
+331,David Lopes\David-Lopes,br BRA,DF,Chivas USA,28,8,7,1,582,73,0,0,0,0,13,2,1,0,0.00,0.00,0.00,0.00,0.00,2.01,0.46
+332,Kofi Sarkodie\Kofi-Sarkodie,us USA,DF,Houston Dynamo,19,7,7,0,580,83,0,0,0,0,10,2,1,0,0.00,0.00,0.00,0.00,0.00,1.55,0.47
+333,Carlo Costly\Carlo-Costly,hn HON,FW,Houston Dynamo,28,11,7,4,577,53,1,0,0,0,8,1,1,3,0.16,0.16,0.16,0.16,0.47,1.25,0.31
+334,Gianluca Zavarise\Gianluca-Zavarise,ca CAN,MF,Toronto FC,24,14,4,10,576,41,0,1,0,0,7,1,1,1,0.00,0.16,0.00,0.16,0.16,1.09,0.31
+335,Jéferson\Jeferson,br BRA,MF,Sporting KC,26,9,8,1,568,63,0,1,0,0,4,1,0,3,0.00,0.16,0.00,0.16,0.48,0.63,0.16
+336,Jack McInerney\Jack-McInerney,us USA,FW,Philadelphia Union,18,18,5,13,565,31,1,0,0,0,10,1,1,6,0.16,0.16,0.16,0.16,0.96,1.59,0.32
+337,Scott Palguta\Scott-Palguta,us USA,DF,Colorado Rapids,28,9,5,4,554,62,2,0,0,0,5,1,0,2,0.32,0.32,0.32,0.32,0.32,0.81,0.16
+338,Anthony Ampaipitakwong\Anthony-Ampaipitakwong,th THA,MF,San Jose Earthquakes,22,12,5,7,547,46,0,2,0,0,7,0,0,2,0.00,0.33,0.00,0.33,0.33,1.15,0.00
+339,Paulo Nagamura\Paulo-Nagamura,br BRA,MF,Chivas USA,27,11,6,5,545,50,0,0,0,0,9,2,0,0,0.00,0.00,0.00,0.00,0.00,1.49,0.33
+340,Daniel Cruz\Daniel-Cruz,co COL,MF,FC Dallas,29,10,6,4,543,54,1,0,0,0,12,2,1,3,0.17,0.17,0.17,0.17,0.50,1.99,0.50
+341,Jon Conway\Jon-Conway,us USA,GK,Chicago Fire,33,6,6,0,540,90,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+342,Corben Bone\Corben-Bone,us USA,MF,Chicago Fire,22,10,7,3,531,53,0,1,0,0,2,0,0,4,0.00,0.17,0.00,0.17,0.68,0.34,0.00
+343,Luke Sassano\Luke-Sassano,us USA,DFMF,Sporting KC,25,9,5,4,531,59,1,0,0,0,2,1,0,2,0.17,0.17,0.17,0.17,0.34,0.34,0.17
+344,Adam Cristman\Adam-Cristman,us USA,FW,LA Galaxy,26,11,5,6,529,48,1,1,0,0,14,0,0,2,0.17,0.34,0.17,0.34,0.34,2.38,0.00
+345,Justin Meram\Justin-Meram,iq IRQ,FWMF,Columbus Crew,22,17,4,13,524,31,0,1,0,0,8,2,0,2,0.00,0.17,0.00,0.17,0.34,1.37,0.34
+346,Eric Avila\Eric-Avila,us USA,MF,FC Dallas,23,13,5,8,519,40,1,2,0,0,5,0,0,2,0.17,0.52,0.17,0.52,0.35,0.87,0.00
+347,Milton Rodríguez\Milton-Rodriguez,co COL,FW,FC Dallas,34,13,5,8,515,40,1,1,0,0,8,1,0,6,0.17,0.35,0.17,0.35,1.05,1.40,0.17
+348,Quincy Amarikwa\Quincy-Amarikwa,us USA,FWMF,Colorado Rapids,23,15,5,10,514,34,1,0,0,0,14,1,1,4,0.18,0.18,0.18,0.18,0.70,2.45,0.35
+349,Luiz Camargo\Luiz-Camargo,br BRA,MF,Houston Dynamo,23,7,6,1,513,73,0,2,0,0,10,0,0,2,0.00,0.35,0.00,0.35,0.35,1.75,0.00
+350,O'Brian White\OBrian-White,jm JAM,FW,Seattle Sounders FC,25,7,7,0,511,73,2,1,0,0,9,0,0,8,0.35,0.53,0.35,0.53,1.41,1.59,0.00
+351,Omar Salgado\Omar-Salgado,us USA,FW,Vancouver Whitecaps FC,17,14,5,9,509,36,1,1,0,0,9,1,0,5,0.18,0.35,0.18,0.35,0.88,1.59,0.18
+352,Doneil Henry\Doneil-Henry,ca CAN,DF,Toronto FC,17,10,6,4,506,51,0,0,0,0,8,1,0,1,0.00,0.00,0.00,0.00,0.18,1.42,0.18
+353,David Ferreira\David-Ferreira,co COL,MF,FC Dallas,31,6,6,0,504,84,3,1,0,1,5,0,0,5,0.54,0.71,0.54,0.71,0.89,0.89,0.00
+354,Monsef Zerka\Monsef-Zerka,ma MAR,MFFW,New England Revolution,29,7,7,0,504,72,2,0,0,0,4,0,0,5,0.36,0.36,0.36,0.36,0.89,0.71,0.00
+355,Russell Teibert\Russell-Teibert,ca CAN,MF,Vancouver Whitecaps FC,18,11,5,6,503,46,0,0,0,0,4,0,0,0,0.00,0.00,0.00,0.00,0.00,0.72,0.00
+356,Bruno Guarda\Bruno-Guarda,br BRA,MF,FC Dallas,24,11,5,6,501,46,0,1,0,0,7,2,0,1,0.00,0.18,0.00,0.18,0.18,1.26,0.36
+357,Michael Videira\Michael-Videira,us USA,MF,Chicago Fire,25,9,7,2,492,55,0,1,0,0,10,2,0,1,0.00,0.18,0.00,0.18,0.18,1.83,0.37
+358,Ike Opara\Ike-Opara,us USA,DF,San Jose Earthquakes,21,8,5,3,488,61,0,0,0,0,10,1,0,0,0.00,0.00,0.00,0.00,0.00,1.84,0.18
+359,Andre Akpan\Andre-Akpan,us USA,FW,Colorado Rapids,23,12,5,7,484,40,1,0,0,0,8,0,0,5,0.19,0.19,0.19,0.19,0.93,1.49,0.00
+360,Chris Albright\Chris-Albright,us USA,DF,New York Red Bulls,32,8,6,2,482,60,0,0,0,0,4,0,0,0,0.00,0.00,0.00,0.00,0.00,0.75,0.00
+361,Eric Gehrig\Eric-Gehrig,us USA,MFDF,Columbus Crew,23,8,4,4,477,60,0,0,0,0,2,1,0,0,0.00,0.00,0.00,0.00,0.00,0.38,0.19
+362,Paulo Jr.\Paulo-Jr,br BRA,FW,Real Salt Lake,22,11,5,6,472,43,2,4,0,0,6,0,0,6,0.38,1.14,0.38,1.14,1.14,1.14,0.00
+363,Danny O'Rourke\Danny-ORourke,us USA,DF,Columbus Crew,27,6,5,1,472,79,0,0,0,0,11,0,0,0,0.00,0.00,0.00,0.00,0.00,2.10,0.00
+364,Bobby Warshaw\Bobby-Warshaw,us USA,MF,FC Dallas,22,17,4,13,471,28,1,0,0,0,9,2,0,1,0.19,0.19,0.19,0.19,0.19,1.72,0.38
+365,Frankie Hejduk\Frankie-Hejduk,us USA,DFMF,LA Galaxy,36,6,6,0,469,78,0,0,0,0,13,5,0,1,0.00,0.00,0.00,0.00,0.19,2.49,0.96
+366,Mariano Trujillo\Mariano-Trujillo,mx MEX,DFMF,Chivas USA,33,12,0,12,461,38,1,1,0,0,10,2,0,2,0.20,0.39,0.20,0.39,0.39,1.95,0.39
+367,Laurent Courtois\Laurent-Courtois,fr FRA,MF,Chivas USA,32,11,3,8,461,42,1,0,0,0,6,0,0,4,0.20,0.20,0.20,0.20,0.78,1.17,0.00
+368,Steve Zakuani\Steve-Zakuani,cd COD,FWMF,Seattle Sounders FC,22,6,6,0,451,75,2,1,0,0,6,0,0,5,0.40,0.60,0.40,0.60,1.00,1.20,0.00
+369,Mustapha Jarju\Mustapha-Jarju,gm GAM,FWMF,Vancouver Whitecaps FC,24,10,5,5,449,45,0,0,0,0,5,0,0,3,0.00,0.00,0.00,0.00,0.60,1.00,0.00
+370,Atiba Harris\Atiba-Harris,kn SKN,FWMF,Vancouver Whitecaps FC,26,5,5,0,443,89,2,1,0,0,13,2,0,8,0.41,0.61,0.41,0.61,1.63,2.64,0.41
+371,Tan Long\Tan-Long,cn CHN,FW,Vancouver Whitecaps FC,22,13,4,9,440,34,1,1,0,0,6,0,0,3,0.20,0.41,0.20,0.41,0.61,1.23,0.00
+372,Jacob Peterson\Jacob-Peterson,us USA,FWMF,San Jose Earthquakes,25,9,5,4,437,49,0,1,0,0,3,1,0,0,0.00,0.21,0.00,0.21,0.00,0.62,0.21
+373,Shaun Francis\Shaun-Francis,jm JAM,DF,Columbus Crew,24,6,5,1,428,71,0,0,0,0,10,1,0,0,0.00,0.00,0.00,0.00,0.00,2.10,0.21
+374,Rubén Luna\Ruben-Luna,mx MEXus USA,FW,FC Dallas,18,15,2,13,420,28,2,1,0,0,11,1,0,5,0.43,0.64,0.43,0.64,1.07,2.36,0.21
+375,Yordany Álvarez\Yordany-Alvarez,cu CUB,MF,Real Salt Lake,25,5,4,1,419,84,0,0,0,0,21,4,0,0,0.00,0.00,0.00,0.00,0.00,4.51,0.86
+376,Scott Sealy\Scott-Sealy,tt TRI,MFFW,San Jose Earthquakes,29,11,6,5,419,38,0,0,0,0,10,0,0,0,0.00,0.00,0.00,0.00,0.00,2.15,0.00
+377,Bratislav Ristić\Bratislav-Ristic,rs SRB,FWMF,Chicago Fire,31,9,5,4,416,46,0,0,0,0,5,1,0,0,0.00,0.00,0.00,0.00,0.00,1.08,0.22
+378,Peri Marošević\Peri-Marosevic,us USA,FW,Toronto FC,21,7,4,3,409,58,2,0,0,0,3,0,0,5,0.44,0.44,0.44,0.44,1.10,0.66,0.00
+379,Calen Carr\Calen-Carr,us USA,FWMF,Houston Dynamo,28,9,4,5,382,42,1,0,0,0,11,0,0,3,0.24,0.24,0.24,0.24,0.71,2.59,0.00
+380,Nana Attakora\Nana-Attakora,ca CAN,DF,San Jose Earthquakes,21,6,5,1,382,64,0,0,0,0,5,1,0,0,0.00,0.00,0.00,0.00,0.00,1.18,0.24
+381,Nana Attakora\Nana-Attakora,ca CAN,DF,Toronto FC,21,6,4,2,373,62,0,0,0,0,3,1,0,0,0.00,0.00,0.00,0.00,0.00,0.72,0.24
+382,Austin da Luz\Austin-da-Luz,us USA,MF,New York Red Bulls,23,7,4,3,368,53,1,0,0,0,5,2,0,1,0.24,0.24,0.24,0.24,0.24,1.22,0.49
+383,Víctor Estupiñán\Victor-Estupinan,ec ECU,FW,Chivas USA,22,9,3,6,326,36,1,0,0,0,5,1,0,6,0.28,0.28,0.28,0.28,1.66,1.38,0.28
+384,Stéphane Auvray\Stephane-Auvray,gp GLP,MF,Sporting KC,29,6,3,3,326,54,0,0,0,0,4,0,0,0,0.00,0.00,0.00,0.00,0.00,1.10,0.00
+385,Miguel Comminges\Miguel-Comminges,gp GLP,DF,Colorado Rapids,28,4,4,0,321,80,0,0,0,0,3,1,1,1,0.00,0.00,0.00,0.00,0.28,0.84,0.56
+386,Diego Fagúndez\Diego-Fagundez,uy URU,MFFW,New England Revolution,15,6,3,3,316,53,2,0,0,0,4,0,0,4,0.57,0.57,0.57,0.57,1.14,1.14,0.00
+387,Jake Gleeson\Jake-Gleeson,nz NZL,GK,Portland Timbers,20,4,3,1,315,79,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+388,Ross LaBauex\Ross-LaBauex,us USA,MF,Colorado Rapids,22,11,4,7,315,29,0,0,0,0,5,3,0,1,0.00,0.00,0.00,0.00,0.29,1.43,0.86
+389,Jed Zayner\Jed-Zayner,us USA,DF,D.C. United,26,4,4,0,309,77,0,0,0,0,9,0,0,0,0.00,0.00,0.00,0.00,0.00,2.62,0.00
+390,Joseph Nane\Joseph-Nane,cm CMR,MF,Colorado Rapids,23,9,2,7,304,34,0,0,0,0,6,0,0,1,0.00,0.00,0.00,0.00,0.30,1.78,0.00
+391,Craig Rocastle\Craig-Rocastle,gd GRN,MF,Sporting KC,29,6,5,1,304,51,0,0,0,0,6,0,0,0,0.00,0.00,0.00,0.00,0.00,1.78,0.00
+392,Ryan Smith\Ryan-Smith,eng ENG,MFFW,Sporting KC,24,6,2,4,295,49,1,0,0,0,0,1,0,3,0.31,0.31,0.31,0.31,0.92,0.00,0.31
+393,Eric Kronberg\Eric-Kronberg,us USA,GK,Sporting KC,27,4,3,1,293,73,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+394,Jeremy Hall\Jeremy-Hall,pr PUR,DFMF,FC Dallas,22,4,2,2,292,73,0,0,0,0,3,0,0,0,0.00,0.00,0.00,0.00,0.00,0.92,0.00
+395,Francisco Mendoza\Francisco-Mendoza,mx MEX,MF,Chivas USA,25,11,2,9,286,26,0,1,0,0,5,0,0,2,0.00,0.31,0.00,0.31,0.63,1.57,0.00
+396,Robbie Keane\Robbie-Keane,ie IRL,FW,LA Galaxy,30,4,3,1,273,68,2,1,0,0,1,0,0,3,0.66,0.99,0.66,0.99,0.99,0.33,0.00
+397,Mike Chabala\Mike-Chabala,us USA,DF,Houston Dynamo,26,7,2,5,272,39,0,0,0,0,4,1,0,1,0.00,0.00,0.00,0.00,0.33,1.32,0.33
+398,Joe Willis\Joe-Willis,us USA,GK,D.C. United,22,3,3,0,270,90,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+399,Pat Onstad\Pat-Onstad,ca CAN,GK,D.C. United,43,3,3,0,270,90,0,0,0,0,0,1,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.33
+400,Eddie Johnson\Eddie-Johnson,eng ENG,FWMF,Portland Timbers,26,7,3,4,266,38,1,0,0,0,4,1,0,3,0.34,0.34,0.34,0.34,1.02,1.35,0.34
+401,Terry Dunfield\Terry-Dunfield,ca CAN,MF,Toronto FC,28,6,2,4,266,44,0,0,0,0,2,0,0,0,0.00,0.00,0.00,0.00,0.00,0.68,0.00
+402,Pat Noonan\Pat-Noonan,us USA,FW,Seattle Sounders FC,30,9,2,7,264,29,0,0,0,0,2,0,0,3,0.00,0.00,0.00,0.00,1.02,0.68,0.00
+403,Marko Perović\Marko-Perovic,rs SRB,MF,New England Revolution,27,4,4,0,260,65,1,1,0,0,5,1,0,3,0.35,0.69,0.35,0.69,1.04,1.73,0.35
+404,Eric Alexander\Eric-Alexander,us USA,MF,Portland Timbers,22,6,3,3,251,42,0,0,0,0,3,0,0,1,0.00,0.00,0.00,0.00,0.36,1.08,0.00
+405,Dasan Robinson\Dasan-Robinson,us USA,DF,Chicago Fire,26,5,2,3,250,50,0,0,0,0,2,1,0,0,0.00,0.00,0.00,0.00,0.00,0.72,0.36
+406,Jovan Kirovski\Jovan-Kirovski,us USA,FW,LA Galaxy,34,12,2,10,248,21,0,0,0,0,4,1,1,0,0.00,0.00,0.00,0.00,0.00,1.45,0.73
+407,Carlyle Mitchell\Carlyle-Mitchell,tt TRI,DF,Vancouver Whitecaps FC,23,3,3,0,240,80,0,0,0,0,3,0,0,0,0.00,0.00,0.00,0.00,0.00,1.13,0.00
+408,Koke\Koke,es ESP,FW,Houston Dynamo,27,7,2,5,238,34,1,0,0,0,3,0,0,4,0.38,0.38,0.38,0.38,1.51,1.13,0.00
+409,Bilal Duckett\Bilal-Duckett,us USA,DF,Vancouver Whitecaps FC,22,4,2,2,226,57,0,0,0,0,4,1,0,1,0.00,0.00,0.00,0.00,0.40,1.59,0.40
+410,Danny Earls\Danny-Earls,ie IRL,DFMF,Colorado Rapids,21,4,3,1,225,56,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.40,0.00,0.00
+411,Tim Ward\Tim-Ward,us USA,DFMF,San Jose Earthquakes,23,3,2,1,225,75,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+412,Chris Cortez\Chris-Cortez,us USA,FW,Chivas USA,22,9,1,8,215,24,0,0,0,0,7,1,0,1,0.00,0.00,0.00,0.00,0.42,2.93,0.42
+413,Ryan Pore\Ryan-Pore,us USA,MF,Portland Timbers,27,8,2,6,204,26,0,0,0,0,2,0,0,0,0.00,0.00,0.00,0.00,0.00,0.88,0.00
+414,Kevin Goldthwaite\Kevin-Goldthwaite,us USA,DF,Portland Timbers,28,4,3,1,189,47,1,0,0,0,2,0,0,1,0.48,0.48,0.48,0.48,0.48,0.95,0.00
+415,Eddy Viator\Eddy-Viator,gp GLP,DF,Toronto FC,28,3,2,1,187,62,0,0,0,0,4,2,0,0,0.00,0.00,0.00,0.00,0.00,1.93,0.96
+416,Andy Gruenebaum\Andy-Gruenebaum,us USA,GK,Columbus Crew,28,2,2,0,180,90,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+417,Jimmy Conrad\Jimmy-Conrad,us USA,DF,Chivas USA,33,2,2,0,180,90,1,0,0,0,1,1,0,1,0.50,0.50,0.50,0.50,0.50,0.50,0.50
+418,Andy Iro\Andy-Iro,eng ENG,DF,Columbus Crew,26,4,2,2,180,45,0,0,0,0,4,1,1,0,0.00,0.00,0.00,0.00,0.00,2.00,1.00
+419,Dwayne De Rosario\Dwayne-De-Rosario,ca CAN,MFFW,Toronto FC,32,2,2,0,180,90,1,0,0,0,3,0,0,3,0.50,0.50,0.50,0.50,1.50,1.50,0.00
+420,Rauwshan McKenzie\Rauwshan-McKenzie,us USA,DF,Real Salt Lake,24,2,2,0,180,90,0,0,0,0,2,0,0,0,0.00,0.00,0.00,0.00,0.00,1.00,0.00
+421,Zach Thornton\Zach-Thornton,us USA,GK,Chivas USA,37,2,2,0,180,90,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+422,Bright Dike\Bright-Dike,ng NGA,FW,Portland Timbers,23,11,0,11,176,16,1,0,0,0,7,2,0,3,0.51,0.51,0.51,0.51,1.53,3.58,1.02
+423,Nelson González\Nelson-Gonzalez,ar ARG,MF,Real Salt Lake,22,6,2,4,176,29,1,0,0,0,4,0,0,2,0.51,0.51,0.51,0.51,1.02,2.05,0.00
+424,Ellis McLoughlin\Ellis-McLoughlin,us USA,MFFW,San Jose Earthquakes,20,10,0,10,175,18,1,0,0,0,9,0,0,2,0.51,0.51,0.51,0.51,1.03,4.63,0.00
+425,Jason Garey\Jason-Garey,us USA,FW,Houston Dynamo,26,10,2,8,171,17,0,0,0,0,4,0,0,1,0.00,0.00,0.00,0.00,0.53,2.11,0.00
+426,Rodrigo Brasesco\Rodrigo-Brasesco,uy URU,DF,D.C. United,25,3,2,1,156,52,0,0,0,0,1,0,0,0,0.00,0.00,0.00,0.00,0.00,0.58,0.00
+427,Kurt Morsink\Kurt-Morsink,cr CRCus USA,MF,D.C. United,26,2,2,0,155,78,0,0,0,0,0,1,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.58
+428,Maykel Galindo\Maykel-Galindo,cu CUB,MFFW,FC Dallas,30,6,1,5,151,25,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.60,0.00,0.00
+429,Peter Lowry\Peter-Lowry,us USA,FWMF,Portland Timbers,25,3,2,1,148,49,0,0,0,0,1,1,0,0,0.00,0.00,0.00,0.00,0.00,0.61,0.61
+430,Oscar Cordon\Oscar-Cordon,ca CAN,MF,Toronto FC,18,4,1,3,145,36,0,0,0,0,6,1,0,1,0.00,0.00,0.00,0.00,0.62,3.72,0.62
+431,Eddie Robinson\Eddie-Robinson,us USA,DF,Houston Dynamo,32,2,2,0,145,73,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+432,Ousmane Dabo\Ousmane-Dabo,fr FRA,MF,New England Revolution,33,3,3,0,144,48,0,0,0,0,1,0,0,0,0.00,0.00,0.00,0.00,0.00,0.62,0.00
+433,Michael Nanchoff\Michael-Nanchoff,us USA,MF,Vancouver Whitecaps FC,22,5,1,4,141,28,0,0,0,0,2,0,0,0,0.00,0.00,0.00,0.00,0.00,1.28,0.00
+434,Brian Umony\Brian-Umony,ug UGA,FW,Portland Timbers,22,6,0,6,137,23,0,0,0,0,3,1,0,2,0.00,0.00,0.00,0.00,1.31,1.97,0.66
+435,Alexandre Morfaw\Alexandre-Morfaw,cm CMR,MF,Vancouver Whitecaps FC,23,2,1,1,135,68,0,0,0,0,4,0,0,0,0.00,0.00,0.00,0.00,0.00,2.67,0.00
+436,Zach Pfeffer\Zach-Pfeffer,us USA,MF,Philadelphia Union,16,3,2,1,135,45,0,0,0,0,1,0,0,2,0.00,0.00,0.00,0.00,1.33,0.67,0.00
+437,Adin Brown\Adin-Brown,us USA,GK,Portland Timbers,32,2,2,0,135,68,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+438,Macoumba Kandji\Macoumba-Kandji,sn SEN,MFFW,Colorado Rapids,25,9,1,8,130,14,0,0,0,0,2,0,0,1,0.00,0.00,0.00,0.00,0.69,1.38,0.00
+439,Stéphane Auvray\Stephane-Auvray,gp GLP,MF,New York Red Bulls,29,6,1,5,128,21,0,0,0,0,3,0,0,0,0.00,0.00,0.00,0.00,0.00,2.11,0.00
+440,Kevin Harmse\Kevin-Harmse,ca CAN,DFMF,Vancouver Whitecaps FC,26,3,1,2,128,43,0,0,0,0,1,0,0,0,0.00,0.00,0.00,0.00,0.00,0.70,0.00
+441,Steve Cronin\Steve-Cronin,us USA,GK,D.C. United,27,2,0,2,127,64,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+442,Branko Bošković\Branko-Boskovic,me MNE,MF,D.C. United,30,4,1,3,125,31,0,0,0,0,1,0,0,2,0.00,0.00,0.00,0.00,1.44,0.72,0.00
+443,Dan Keat\Dan-Keat,nz NZL,MF,LA Galaxy,23,5,1,4,120,24,0,0,0,0,2,0,0,0,0.00,0.00,0.00,0.00,0.00,1.50,0.00
+444,Kheli Dube\Kheli-Dube,zw ZIM,FW,New England Revolution,27,5,0,5,118,24,0,0,0,0,2,0,0,1,0.00,0.00,0.00,0.00,0.76,1.53,0.00
+445,Hector Jiménez\Hector-Jimenez,us USA,MF,LA Galaxy,22,2,1,1,116,58,0,0,0,0,1,0,0,0,0.00,0.00,0.00,0.00,0.00,0.78,0.00
+446,Tony Tchani\Tony-Tchani,cm CMR,MF,New York Red Bulls,21,2,1,1,113,57,0,0,0,0,3,0,0,2,0.00,0.00,0.00,0.00,1.59,2.39,0.00
+447,Jack Stewart\Jack-Stewart,us USA,DF,FC Dallas,27,2,1,1,110,55,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+448,David Estrada\David-Estrada,mx MEXus USA,FW,Seattle Sounders FC,22,3,1,2,110,37,0,0,0,0,1,0,0,0,0.00,0.00,0.00,0.00,0.00,0.82,0.00
+449,Gerson Mayen\Gerson-Mayen,sv SLV,MF,Chivas USA,21,4,1,3,108,27,0,0,0,0,2,0,0,0,0.00,0.00,0.00,0.00,0.00,1.67,0.00
+450,Daneil Cyrus\Daneil-Cyrus,tt TRI,DF,Sporting KC,20,2,1,1,108,54,0,0,0,0,4,1,0,0,0.00,0.00,0.00,0.00,0.00,3.33,0.83
+451,Alan Gordon\Alan-Gordon,us USA,FW,San Jose Earthquakes,29,2,1,1,106,53,1,0,0,0,7,1,0,2,0.85,0.85,0.85,0.85,1.70,5.94,0.85
+452,Sammy Ochoa\Sammy-Ochoa,us USA,FW,Seattle Sounders FC,24,4,0,4,104,26,2,0,0,0,0,0,0,2,1.73,1.73,1.73,1.73,1.73,0.00,0.00
+453,Adam Moffat\Adam-Moffat,sco SCO,MF,Portland Timbers,24,4,0,4,102,26,0,0,0,0,1,1,0,0,0.00,0.00,0.00,0.00,0.00,0.88,0.88
+454,Artur Aghasyan\Artur-Aghasyan,am ARM,FW,Real Salt Lake,23,4,1,3,100,25,0,0,0,0,5,0,0,0,0.00,0.00,0.00,0.00,0.00,4.50,0.00
+455,Korede Aiyegbusi\Korede-Aiyegbusi,ng NGA,DFMF,Sporting KC,22,3,1,2,96,32,0,0,0,0,1,0,0,0,0.00,0.00,0.00,0.00,0.00,0.94,0.00
+456,Alex Dixon\Alex-Dixon,us USA,MF,Houston Dynamo,20,7,0,7,92,13,1,0,0,0,1,0,0,2,0.98,0.98,0.98,0.98,1.96,0.98,0.00
+457,Danleigh Borman\Danleigh-Borman,za RSA,DFMF,New York Red Bulls,26,2,1,1,91,46,0,0,0,0,1,0,0,0,0.00,0.00,0.00,0.00,0.00,0.99,0.00
+458,Chris Konopka\Chris-Konopka,us USA,GK,New York Red Bulls,25,1,1,0,90,90,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+459,Alex Horwath\Alex-Horwath,us USA,GK,New York Red Bulls,23,1,1,0,90,90,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+460,Jack McBean\Jack-McBean,us USA,FW,LA Galaxy,16,1,1,0,90,90,1,0,0,0,1,0,0,1,1.00,1.00,1.00,1.00,1.00,1.00,0.00
+461,David Bingham\David-Bingham,us USA,GK,San Jose Earthquakes,21,1,1,0,90,90,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+462,Brian Perk\Brian-Perk,us USA,GK,LA Galaxy,21,1,1,0,90,90,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+463,Chris Seitz\Chris-Seitz,us USA,GK,FC Dallas,23,1,1,0,90,90,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+464,Dasan Robinson\Dasan-Robinson,us USA,DF,LA Galaxy,26,1,1,0,90,90,0,0,0,0,2,0,0,0,0.00,0.00,0.00,0.00,0.00,2.00,0.00
+465,Kyle Reynish\Kyle-Reynish,us USA,GK,Real Salt Lake,27,1,1,0,90,90,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+466,Matt Kassel\Matt-Kassel,us USA,MF,New York Red Bulls,21,2,0,2,84,42,0,0,0,0,1,0,0,1,0.00,0.00,0.00,0.00,1.07,1.07,0.00
+467,Scott Lorenz\Scott-Lorenz,us USA,DF,Sporting KC,23,1,1,0,83,83,0,0,0,0,3,0,0,0,0.00,0.00,0.00,0.00,0.00,3.25,0.00
+468,Ilija Stolica\Ilija-Stolica,rs SRB,FW,New England Revolution,31,2,0,2,74,37,1,0,0,0,2,1,0,1,1.22,1.22,1.22,1.22,1.22,2.43,1.22
+469,Cody Arnoux\Cody-Arnoux,us USA,FW,Real Salt Lake,22,2,0,2,70,35,0,0,0,0,1,0,0,0,0.00,0.00,0.00,0.00,0.00,1.29,0.00
+470,Matt Luzunaris\Matt-Luzunaris,us USA,FW,San Jose Earthquakes,21,6,0,6,68,11,0,0,0,0,3,0,0,0,0.00,0.00,0.00,0.00,0.00,3.97,0.00
+471,Tristan Bowen\Tristan-Bowen,us USA,FW,Chivas USA,20,3,0,3,63,21,0,0,0,0,2,0,0,0,0.00,0.00,0.00,0.00,0.00,2.86,0.00
+472,Blake Wagner\Blake-Wagner,us USA,MFDF,Real Salt Lake,23,2,1,1,63,32,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+473,Andrew Wiedeman\Andrew-Wiedeman,us USA,FW,FC Dallas,21,3,0,3,61,20,0,0,0,0,1,0,0,1,0.00,0.00,0.00,0.00,1.48,1.48,0.00
+474,Carl Robinson\Carl-Robinson,wal WAL,MF,New York Red Bulls,34,2,0,2,55,28,0,0,0,0,2,0,0,0,0.00,0.00,0.00,0.00,0.00,3.27,0.00
+475,John Rooney\John-Rooney,eng ENG,MFFW,New York Red Bulls,20,5,0,5,52,10,0,0,0,0,0,1,0,0,0.00,0.00,0.00,0.00,0.00,0.00,1.73
+476,Matt Gold\Matt-Gold,us USA,MF,Toronto FC,22,3,0,3,48,16,0,0,0,0,1,0,0,0,0.00,0.00,0.00,0.00,0.00,1.87,0.00
+477,Davis Paul\Davis-Paul,us USA,MF,Chicago Fire,22,1,1,0,45,45,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+478,Keith Makubuya\Keith-Makubuya,ca CAN,FW,Toronto FC,18,1,0,1,45,45,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+479,Maxwell Griffin\Maxwell-Griffin,us USA,FW,San Jose Earthquakes,23,4,0,4,45,11,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+480,Soony Saad\Soony-Saad,lb LIB,FW,Sporting KC,18,4,0,4,43,11,1,0,0,0,1,0,0,1,2.09,2.09,2.09,2.09,2.09,2.09,0.00
+481,Brandon Barklage\Brandon-Barklage,us USA,DFMF,D.C. United,24,4,0,4,41,10,0,0,0,0,1,0,0,1,0.00,0.00,0.00,0.00,2.20,2.20,0.00
+482,Corey Hertzog\Corey-Hertzog,us USA,FW,New York Red Bulls,20,5,0,5,39,8,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,2.31,0.00,0.00
+483,Shavar Thomas\Shavar-Thomas,jm JAM,DF,Sporting KC,30,3,0,3,38,13,0,0,0,0,2,1,0,0,0.00,0.00,0.00,0.00,0.00,4.74,2.37
+484,Miguel Montaño\Miguel-Montano,co COL,MFFW,Seattle Sounders FC,19,2,0,2,33,17,0,0,0,0,1,0,0,0,0.00,0.00,0.00,0.00,0.00,2.73,0.00
+485,Dominic Oduro\Dominic-Oduro,gh GHA,FW,Houston Dynamo,25,1,0,1,30,30,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+486,Kyle Davies\Kyle-Davies,us USA,DF,Toronto FC,21,1,0,1,22,22,0,0,0,0,1,0,0,0,0.00,0.00,0.00,0.00,0.00,4.09,0.00
+487,Edmundo Zura\Edmundo-Zura,ec ECU,FW,San Jose Earthquakes,28,1,0,1,20,20,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+488,Gabriel Ferrari\Gabriel-Ferrari,us USA,FW,Chicago Fire,22,3,0,3,20,7,0,0,0,0,3,0,0,1,0.00,0.00,0.00,0.00,4.50,13.50,0.00
+489,Marko Marić\Marko-Maric,hr CRO,MF,Chicago Fire,27,1,0,1,18,18,0,0,0,0,1,0,0,0,0.00,0.00,0.00,0.00,0.00,5.00,0.00
+490,Cole Grossman\Cole-Grossman,us USA,MF,Columbus Crew,21,2,0,2,15,8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+491,Ryan Thomas\Ryan-Thomas,us USA,DF,LA Galaxy,21,1,0,1,15,15,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+492,Lawrence Olum\Lawrence-Olum,ke KEN,MFDF,Sporting KC,26,1,0,1,14,14,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+493,Omar Jasseh\Omar-Jasseh,gm GAM,MF,San Jose Earthquakes,18,1,0,1,14,14,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+494,Chris Agorsor\Chris-Agorsor,us USA,FW,Real Salt Lake,20,1,0,1,12,12,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+495,Morgan Langley\Morgan-Langley,us USA,MF,Philadelphia Union,21,1,0,1,11,11,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+496,Victor Ulloa\Victor-Ulloa,mx MEXus USA,MF,FC Dallas,18,1,0,1,10,10,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+497,Amadou Sanyang\Amadou-Sanyang,gm GAM,MFDF,Seattle Sounders FC,19,1,0,1,9,9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+498,Peterson Joseph\Peterson-Joseph,ht HAI,MF,Sporting KC,20,1,0,1,9,9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+499,Brian Nielsen\Brian-Nielsen,dk DEN,MF,New York Red Bulls,23,1,0,1,5,5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+500,Léandre Griffit\Leandre-Griffit,fr FRA,MFFW,Columbus Crew,26,1,0,1,3,3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+501,Aaron Horton\Aaron-Horton,us USA,FW,Columbus Crew,18,1,0,1,2,2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+502,Demitrius Omphroy\Demitrius-Omphroy,ph PHI,DFMF,Toronto FC,21,1,0,1,2,2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+503,Mike Jones\Mike-Jones,us USA,DF,New York Red Bulls,22,1,0,1,1,1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+504,Ryan Kinne\Ryan-Kinne,us USA,MF,New England Revolution,21,1,0,1,1,1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00

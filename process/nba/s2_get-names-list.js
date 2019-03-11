@@ -24,7 +24,8 @@ function getNames(letter) {
 			const endDate = $(el)
 				.find(`[data-stat='year_max']`)
 				.text()
-			if (name) names.push({name, startDate, endDate})
+			const league = 'nba'
+			if (name) names.push({name, startDate, endDate, league})
 		});
 		//console.log(names)
 		return names;
