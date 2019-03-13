@@ -29,12 +29,21 @@ function getNames(page) {
 			let dates = stats
 				.find('span ul li')
 				.text()
-				// .trim()
-			// dates = dates.slice((dates.length - 9), dates.length)
-			// let startDate = dates.split('-')[0];
-			// let endDate = dates.split('-')[1];
-			// const league = 'nfl'
-			if (name) names.push({name, dates})
+			let dateArray = dates.match(/\d+/g)
+			let dateNums = null
+			let startDate = null
+			let endDate = null
+			if (dateArray !== null) {
+				dateNums = dateArray.map(Number)
+				startDate = Math.min(...dateNums)
+				if (dates.includes("Present")) {
+					endDate = 2019
+				} else {
+					endDate = Math.max(...dateNums)
+				}
+				const league = 'congress'
+				if (name) names.push({name, startDate, endDate, league})
+			}
 		});
 		return names;
 }
