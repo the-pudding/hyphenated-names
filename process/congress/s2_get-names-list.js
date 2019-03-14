@@ -42,7 +42,9 @@ function getNames(page) {
 					endDate = Math.max(...dateNums)
 				}
 				const league = 'congress'
-				if (name) names.push({name, startDate, endDate, league})
+				const last = name.substr(name.indexOf(' ')+1)
+				const hyphen = last.includes('-') ? true : false
+				if (name) names.push({name, startDate, endDate, league, hyphen})
 			}
 		});
 		return names;

@@ -24,7 +24,9 @@ function getNames(letter) {
 			let startDate = dates.split('-')[0];
 			let endDate = dates.split('-')[1];
 			const league = 'nfl'
-			if (name) names.push({name, startDate, endDate, league})
+			const last = name.substr(name.indexOf(' ')+1)
+			const hyphen = last.includes('-') ? true : false
+			if (name) names.push({name, startDate, endDate, league, hyphen})
 		});
 		//console.log(names)
 		return names;

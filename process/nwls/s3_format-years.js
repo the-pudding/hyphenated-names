@@ -12,8 +12,10 @@ function loadData() {
 	nestedData = d3.nest()
 		.key(d => d.name)
 		.rollup(values => {
+			const last = (values[0].name).substr((values[0].name).indexOf(' ')+1)
+			const hyphen = last.includes('-') ? true : false
 			const [startDate, endDate] = d3.extent(values, v => +v.season)
-			return {startDate, endDate}
+			return {startDate, endDate, hyphen}
 		})
 		.entries(file)
 }
@@ -23,7 +25,8 @@ function minMaxSeasons(data) {
 		name: d.key,
 		startDate: d.value.startDate,
 		endDate: d.value.endDate,
-		league: 'nwls'
+		league: 'nwls',
+		hyphen: d.value.hyphen
 	}));
 }
 

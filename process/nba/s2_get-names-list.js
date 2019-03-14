@@ -25,7 +25,9 @@ function getNames(letter) {
 				.find(`[data-stat='year_max']`)
 				.text()
 			const league = 'nba'
-			if (name) names.push({name, startDate, endDate, league})
+			const last = name.substr(name.indexOf(' ')+1)
+			const hyphen = last.includes('-') ? true : false
+			if (name) names.push({name, startDate, endDate, league, hyphen})
 		});
 		//console.log(names)
 		return names;

@@ -24,6 +24,8 @@ function getNames(letter) {
 			let startDate = null;
 			let endDate = null;
 			const league = 'wnba'
+			const last = name.substr(name.indexOf(' ')+1)
+			const hyphen = last.includes('-') ? true : false
 			if (dates != undefined){
 				startDate = dates.substring(0,4)
 				if (dates.length === 4) {
@@ -32,7 +34,7 @@ function getNames(letter) {
 					endDate = dates.substring(8,12)
 				}
 			}
-			if (name && dates != undefined) names.push({name, startDate, endDate, league})
+			if (name && dates != undefined) names.push({name, startDate, endDate, league, hyphen})
 		});
 		//console.log(names)
 		return names;
