@@ -23,7 +23,7 @@ function getNames(page) {
 			lastName = lastName.replace('Senator ', '')
 			name = firstName.concat(' ', lastName)
 			let stats = $(el)
-				.find('.quick-search-member .member-image-exists')
+				.find('.quick-search-member .member-profile')
 				.children()
 				.last()
 			let dates = stats
