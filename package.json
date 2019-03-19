@@ -11,6 +11,7 @@
     "cheerio": "^1.0.0-rc.2",
     "d3": "^5.9.1",
     "fs": "0.0.1-security",
+    "lodash": "^4.17.11",
     "lodash.debounce": "^4.0.8",
     "nouislider": "^12.1.0",
     "promise-polyfill": "^8.1.0",
@@ -76,7 +77,8 @@
     "nwls-get-names-list": "node process/nwls/s2_get-names-list.js",
     "nwls-format-years": "node process/nwls/s3_format-years.js",
     "congress-get-names-html": "node process/congress/s1_get-names-html.js",
-    "congress-get-names-list": "node process/congress/s2_get-names-list.js"
+    "congress-get-names-list": "node process/congress/s2_get-names-list.js",
+    "combine-all-names": "node process/combine-all-names.js"
   },
   "repository": {
     "type": "git",
