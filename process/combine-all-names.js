@@ -54,10 +54,14 @@ function init() {
 	addDecade(combinedNames)
 	console.log(withDecades)
 
-	const all = d3.csvFormat(withDecades);
+	const all = d3.csvFormat(withDecades)
 	fs.writeFileSync(`${OUT_PATH}/allCombinedNames.csv`, all)
 
-	const withHyphens = _.filter(withDecades, ['hyphen', 'true'])
+	const noCongress = _.filter(withDecades, function(d) { return d.league !== 'congress'; });
+	const allSports = d3.csvFormat(noCongress)
+	fs.writeFileSync(`${OUT_PATH}/sportsCombinedNames.csv`, allSports)
+
+	const withHyphens = _.filter(allSports, ['hyphen', 'true'])
 	const allHyphens = d3.csvFormat(withHyphens)
 	fs.writeFileSync(`${OUT_PATH}/hyphensCombinedNames.csv`, allHyphens)
 }
