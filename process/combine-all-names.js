@@ -46,7 +46,8 @@ function addDecade(data){
 		...d,
 		decade: assignDecade(d.startDate),
 		lastName: (d.name).split(' ')[((d.name).split(' ')).length-1],
-		nameLength: ((d.name).split(' ')[((d.name).split(' ')).length-1]).length
+		nameLength: ((d.name).split(' ')[((d.name).split(' ')).length-1]).length,
+		reason: null
 	}))
 }
 
