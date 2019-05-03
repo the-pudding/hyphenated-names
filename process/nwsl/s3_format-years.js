@@ -1,8 +1,8 @@
 const fs = require('fs');
 const d3 = require('d3');
 
-const IN_FILE = './output/nwls/names-no-years.csv';
-const OUT_PATH = './output/nwls';
+const IN_FILE = './output/nwsl/names-no-years.csv';
+const OUT_PATH = './output/nwsl';
 let nestedData = null;
 let seasonsData = null;
 
@@ -25,7 +25,7 @@ function minMaxSeasons(data) {
 		name: d.key,
 		startDate: d.value.startDate,
 		endDate: d.value.endDate,
-		league: 'nwls',
+		league: 'nwsl',
 		hyphen: d.value.hyphen
 	}));
 }

@@ -2,7 +2,7 @@ const fs = require('fs');
 const d3 = require('d3');
 const request = require('request');
 
-const OUT_PATH = './output/nwls'
+const OUT_PATH = './output/nwsl'
 const years = d3.range(2016, 2020)
 
 async function getNamesHTML(year) {

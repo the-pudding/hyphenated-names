@@ -73,9 +73,9 @@
     "nhl-get-names-list": "node process/nhl/s2_get-names-list.js",
     "mls-get-names-list": "node process/mls/s1_get-names-list.js",
     "mls-format-years": "node process/mls/s2_format-years.js",
-    "nwls-get-names-html": "node process/nwls/s1_get-names-html.js",
-    "nwls-get-names-list": "node process/nwls/s2_get-names-list.js",
-    "nwls-format-years": "node process/nwls/s3_format-years.js",
+    "nwsl-get-names-html": "node process/nwsl/s1_get-names-html.js",
+    "nwsl-get-names-list": "node process/nwsl/s2_get-names-list.js",
+    "nwsl-format-years": "node process/nwsl/s3_format-years.js",
     "congress-get-names-html": "node process/congress/s1_get-names-html.js",
     "congress-get-names-list": "node process/congress/s2_get-names-list.js",
     "combine-all-names": "node process/combine-all-names.js"

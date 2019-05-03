@@ -3,8 +3,8 @@ const d3 = require('d3');
 const request = require('request');
 const cheerio = require('cheerio');
 
-const IN_PATH = './output/nwls/';
-const OUT_PATH = './output/nwls';
+const IN_PATH = './output/nwsl/';
+const OUT_PATH = './output/nwsl';
 const names = [];
 const years = d3.range(2016, 2020)
 
