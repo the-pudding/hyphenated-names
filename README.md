@@ -27,7 +27,7 @@ Pulls down html pages of alphabetized WNBA players from [Basketball Reference](h
 
 #### `npm run wnba-get-names-list`
 
-Compiles and formats all WNBA player names and saves into `output/wnba` as `names.csv` 
+Compiles and formats all WNBA player names and saves into `output/wnba` as `names.csv`
 
 ### NBA
 
@@ -37,7 +37,7 @@ Pulls down html pages of alphabetized NBA players from [Basketball Reference](ht
 
 #### `npm run nba-get-names-list`
 
-Compiles and formats all NBA player names and saves into `output/nba` as `names.csv` 
+Compiles and formats all NBA player names and saves into `output/nba` as `names.csv`
 
 ### NFL
 
@@ -47,7 +47,7 @@ Pulls down html pages of alphabetized NFL players from [Football Reference](http
 
 #### `npm run nfl-get-names-list`
 
-Compiles and formats all NFL player names and saves into `output/nfl` as `names.csv` 
+Compiles and formats all NFL player names and saves into `output/nfl` as `names.csv`
 
 ### MLB
 
@@ -57,7 +57,7 @@ Pulls down html pages of alphabetized MLB players from [Baseball Reference](http
 
 #### `npm run mlb-get-names-list`
 
-Compiles and formats all MLB player names and saves into `output/mlb` as `names.csv` 
+Compiles and formats all MLB player names and saves into `output/mlb` as `names.csv`
 
 ### NHL
 
@@ -73,11 +73,11 @@ Compiles and formats all NHL player names and saves into `output/nhl` as `names.
 
 #### `npm run mls-get-names-list`
 
-Compiles previously downloaded MLS player names from `output/mls/csvs` and saves into `output/nwsl` as `names-no-years.csv` 
+Compiles previously downloaded MLS player names from `output/mls/csvs` and saves into `output/nwsl` as `names-no-years.csv`
 
 #### `npm run mls-format-years`
 
-Formats all MLS player names and saves into `output/mls` as `names.csv` 
+Formats all MLS player names and saves into `output/mls` as `names.csv`
 
 ### NWSL
 
@@ -87,11 +87,11 @@ Pulls down html pages of alphabetized NWSL players from [NWSL](http://www.nwslso
 
 #### `npm run nwsl-get-names-list`
 
-Compiles all NWSL player names and saves into `output/nwsl` as `names-no-years.csv` 
+Compiles all NWSL player names and saves into `output/nwsl` as `names-no-years.csv`
 
 #### `npm run nwls-format-years`
 
-Formats all NWSL player names and saves into `output/nwsl` as `names.csv` 
+Formats all NWSL player names and saves into `output/nwsl` as `names.csv`
 
 ### Congress
 
@@ -115,6 +115,4 @@ Compiles names from all leagues and saves into `output` as:
 
 ## Notes
 
-Korean names, where the last name appears before the first name, were later manually untagged as hyphenated names. 
-
-
+Korean names, where the last name appears before the first name, were later manually untagged as hyphenated names. Players were grouped into decades by the season in which they played in their first professional game. When seasons spanned multiple years (i.e. 1979-1980), the last year was used as the decade. The reasons for hyphenation were manually researched and added into `sportsCombinedNames_withReasons.csv`.
