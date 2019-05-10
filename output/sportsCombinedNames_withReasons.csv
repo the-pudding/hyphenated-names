@@ -21494,10 +21494,10 @@ Caleb Stanko,2019,2019,mls,false,2010,Stanko,6,
 Keaton Parks,2019,2019,mls,false,2010,Parks,5,
 Hassani Dotson,2019,2019,mls,false,2010,Dotson,6,
 Alaa Abdelnaby,1991,1995,nba,false,1990,Abdelnaby,9,
-Zaid Abdul-Aziz,1969,1978,nba,true,1960,Abdul-Aziz,10,religion
-Kareem Abdul-Jabbar,1970,1989,nba,true,1970,Abdul-Jabbar,12,religion
-Mahmoud Abdul-Rauf,1991,2001,nba,true,1990,Abdul-Rauf,10,religion
-Tariq Abdul-Wahad,1998,2003,nba,true,1990,Abdul-Wahad,11,religion
+Zaid Abdul-Aziz,1969,1978,nba,true,1960,Abdul-Aziz,10,changed for religious reasons
+Kareem Abdul-Jabbar,1970,1989,nba,true,1970,Abdul-Jabbar,12,changed for religious reasons
+Mahmoud Abdul-Rauf,1991,2001,nba,true,1990,Abdul-Rauf,10,changed for religious reasons
+Tariq Abdul-Wahad,1998,2003,nba,true,1990,Abdul-Wahad,11,changed for religious reasons
 Shareef Abdur-Rahim,1997,2008,nba,true,1990,Abdur-Rahim,11,family name
 Tom Abernethy,1977,1981,nba,false,1970,Abernethy,9,
 Forest Able,1957,1957,nba,false,1950,Able,4,
@@ -25878,7 +25878,7 @@ Vince Abbott,1987,1988,nfl,false,1980,Abbott,6,
 Jared Abbrederis,2014,2017,nfl,false,2010,Abbrederis,10,
 Duke Abbruzzi,1946,1946,nfl,false,1940,Abbruzzi,8,
 Mehdi Abdesmad,2016,2016,nfl,false,2010,Abdesmad,8,
-Karim Abdul-Jabbar,1996,2000,nfl,true,1990,Abdul-Jabbar,12,religion
+Karim Abdul-Jabbar,1996,2000,nfl,true,1990,Abdul-Jabbar,12,changed for religious reasons
 Isa Abdul-Quddus,2011,2016,nfl,true,2010,Abdul-Quddus,12,unknown
 Ameer Abdullah,2015,2018,nfl,false,2010,Abdullah,8,
 Hamza Abdullah,2005,2011,nfl,false,2000,Abdullah,8,
@@ -25981,7 +25981,7 @@ Victor Adeyanju,2006,2009,nfl,false,2000,Adeyanju,8,
 Xavier Adibi,2008,2012,nfl,false,2000,Adibi,5,
 John Adickes,1987,1989,nfl,false,1980,Adickes,7,
 Mark Adickes,1986,1991,nfl,false,1980,Adickes,7,
-Jude Adjei-Barimah,2015,2016,nfl,true,2010,Adjei-Barimah,13,other
+Jude Adjei-Barimah,2015,2016,nfl,true,2010,Adjei-Barimah,13,unknown
 Bob Adkins,1940,1945,nfl,false,1940,Adkins,6,
 Kevin Adkins,1987,1987,nfl,false,1980,Adkins,6,
 Margene Adkins,1970,1973,nfl,false,1970,Adkins,6,
@@ -26119,7 +26119,7 @@ Mike Alford,1965,1966,nfl,false,1960,Alford,6,
 Robert Alford,2013,2018,nfl,false,2010,Alford,6,
 Warren Alfson,1941,1941,nfl,false,1940,Alfson,6,
 Charles Ali,2007,2008,nfl,false,2000,Ali,3,
-Mo Alie-Cox,2018,2018,nfl,true,2010,Alie-Cox,8,other
+Mo Alie-Cox,2018,2018,nfl,true,2010,Alie-Cox,8,unknown
 Tuineau Alipate,1994,1995,nfl,false,1990,Alipate,7,
 Don Allard,1961,1962,nfl,false,1960,Allard,6,
 Raul Allegre,1983,1991,nfl,false,1980,Allegre,7,
@@ -57675,7 +57675,7 @@ Ziomara Morrison,2012,2012,wnba,false,2010,Morrison,8,
 Bernice Mosby,2007,2009,wnba,false,2000,Mosby,5,
 Brene Moseley,2016,2016,wnba,false,2010,Moseley,7,
 Judy Mosley-McAfee,1997,1997,wnba,true,1990,Mosley-McAfee,13,married and combined names
-Kaleena Mosqueda-Lewis,2015,2018,wnba,true,2010,Mosqueda-Lewis,14,other
+Kaleena Mosqueda-Lewis,2015,2018,wnba,true,2010,Mosqueda-Lewis,14,combined parents names
 Jenny Mowe,2001,2003,wnba,false,2000,Mowe,4,
 Teana Muldrow,2018,2018,wnba,false,2010,Muldrow,7,
 Naomi Mulitauaopele,2000,2000,wnba,false,2000,Mulitauaopele,13,
